@@ -1,4 +1,4 @@
-# Sree Danush S — `@L4ZZ3RJ0D`
+# Sree Danush S — [`@L4ZZ3RJ0D`](https://l4zz3rj0d.github.io)
 
 > Offensive Security Engineer · CTF Practitioner · Founder of [Project Hellhound](https://github.com/Project-Hellhound)
 
