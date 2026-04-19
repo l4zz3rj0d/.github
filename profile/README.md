@@ -10,7 +10,7 @@ I'm an **Offensive Security Engineer** who builds tools that work in the field �
 
 I specialize in designing and developing autonomous security systems, combining deep web application pentesting knowledge with production-grade Python engineering. My work sits at the intersection of vulnerability research, intelligent automation, and real-world attack simulation.
 
-Currently interning at **CyArt**, building a 6-agent autonomous web pentesting platform where I own the injection agent layer — covering CMDi (Linux/Windows), SQLi (GET/POST), NoSQLi (MongoDB), and BAC detection.
+Currently interning at **CyArt**, building a multi-agent autonomous web pentesting platform. Multiple agent layers, each targeting a different attack class, run in production against real targets.
 
 My personal projects started as tools I needed that didn't exist. Now they're the foundation of **Project Hellhound** — an open source tech collective I founded.
 
