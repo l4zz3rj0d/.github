@@ -57,12 +57,7 @@ Cisco Ethical Hacker · CCEP (Red Team Leaders) · Infosys Springboard Pentestin
 
 ---
 
-## Stack
-
-`Python` `Bash` `Kali Linux` `Burp Suite` `Playwright` `Metasploit`  
-`Nmap` `SQLMap` `Wireshark` `Ghidra` `Splunk` `Hydra`
-
-**Focus areas:** Web pentesting · CMDi · SQLi · NoSQLi · BAC/IDOR · XSS · OSINT · Bug Bounty · Hardware Hacking
+**Focus areas:** Web pentesting · OSINT · Bug Bounty · Hardware Hacking
 
 ---
 
