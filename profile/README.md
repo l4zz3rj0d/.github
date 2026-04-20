@@ -40,7 +40,7 @@ I founded **[Project-Hellhound](https://github.com/Project-Hellhound)** as the o
 -  AI & Automation
 -  Hardware & Engineering
 
-> Think ProjectDiscovery — but we're building it from Coimbatore.
+> We build What We Think 
 
 ---
 
