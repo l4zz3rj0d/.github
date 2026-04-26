@@ -30,14 +30,13 @@ My personal projects started as tools I needed that didn't exist. Now they're th
 
 ---
 
-## Project Hellhound
+## Founder of [Project-Hellhound](https://github.com/project-hellhound-org)
 
-I founded **[Project-Hellhound](https://github.com/Project-Hellhound)** as the org that houses collective work across four domains:
+Project-Hellhound is an independent research and development initiative focused on building **high-performance security tools** for the modern defensive and offensive landscape. We specialize in:
 
--  Offensive Security
--  Recon & OSINT
--  AI & Automation
--  Hardware & Engineering
+- **VAPT** (Web Application Penetration Testing & Vulnerability Research)
+- **Red Teaming** (Autonomous Reconnaissance & Attack-Chain Correlation)
+- **SOC** (Threat Intelligence, Automated OSINT & Log Analysis)
 
 > We build What We Think 
 
