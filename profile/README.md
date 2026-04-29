@@ -26,7 +26,7 @@ My personal projects started as tools I needed that didn't exist. Now they're th
 
 ### Contributing To (under [Project-Hellhound](https://github.com/Project-Hellhound))
 
-- [**XSSentry**](https://github.com/project-hellhound/X5Sentry) — Advanced XSS detection & exploitation research toolkit *(led by a co-founder)* `Research Phase`
+- [**XSSentry**](https://github.com/project-hellhound/X5Sentry) — Advanced XSS detection & exploitation research toolkit *(led by [GH05T](https://github.com/L33TxGH05T))*
 
 ---
 
