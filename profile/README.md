@@ -79,4 +79,4 @@ Technical writeups published on **[Medium @l4zz3rj0d](https://medium.com/@l4zz3r
 
 ---
 
-<sub>All personal repos listed here are also available under the [Project-Hellhound](https://github.com/Project-Hellhound) org. Development stays here — the org mirrors and builds on top.</sub>
+<sub>All personal repos listed here are also available under the [Project-Hellhound](https://github.com/project-hellhound-org) org. Development stays here — the org mirrors and builds on top.</sub>
