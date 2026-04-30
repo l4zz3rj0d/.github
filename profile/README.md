@@ -24,7 +24,7 @@ My personal projects started as tools I needed that didn't exist. Now they're th
 | [JOE-GOLDBERG](https://github.com/project-hellhound-org/JOE-GOLDBERG) | Autonomous OSINT investigator with LLM-assisted reporting | `In Development` |
 | [CMDmap](https://github.com/project-hellhound-org/cmdmap) | Autonomous CMDi Detector | `Active ` |
 
-### Contributing To (under [Project-Hellhound](https://github.com/Project-Hellhound))
+### Contributions
 
 - [**XSSentry**](https://github.com/project-hellhound/X5Sentry) — Advanced XSS detection & exploitation research toolkit *(led by [GH05T](https://github.com/L33TxGH05T))*
 
