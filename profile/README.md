@@ -46,6 +46,7 @@ Project-Hellhound is an independent research and development initiative focused 
 
 **Certifications:** Network Defence Essentials · Digital Forensic Essentials · Ethical Hacking Essentials  
 Cisco Ethical Hacker · CCEP (Red Team Leaders) · Infosys Springboard Pentesting with Metasploit
+Jr Penetration Tester(Tryhackme)
 
 **Internships (5):**
 - CyArt — Autonomous pentesting platform *(Dec 2025 – present)*
