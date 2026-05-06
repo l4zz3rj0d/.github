@@ -19,7 +19,7 @@ My personal projects started as tools I needed that didn't exist. Now they're th
 
 | Project | What it does | Status |
 |---|---|---|
-| [Hellhound-Pentest](https://github.com/project-hellhound-org/Hellhound-Pentest) | Hellhound is a high-fidelity security framework engineered for professional web application assessments. Engineered for speed and surgical precision | `Active · v5.5` |
+| [Hellhound-Pentest](https://github.com/project-hellhound-org/Hellhound-Pentest) | Hellhound is a high-fidelity security framework engineered for professional web application assessments. Engineered for speed and surgical precision | `In Development` |
 | [Hellhound-Spider](https://github.com/project-hellhound-org/Hellhound-Spider) | SPA-aware async web crawler with JS endpoint & param discovery | `Active · v12+`|
 | [JOE-GOLDBERG](https://github.com/project-hellhound-org/JOE-GOLDBERG) | Autonomous OSINT investigator with LLM-assisted reporting | `In Development` |
 | [CMDmap](https://github.com/project-hellhound-org/cmdmap) | Autonomous CMDi Detector | `Active ` |
