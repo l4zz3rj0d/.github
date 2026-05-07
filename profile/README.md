@@ -27,6 +27,7 @@ My personal projects started as tools I needed that didn't exist. Now they're th
 ### Contributions
 
 - [**XSSentry**](https://github.com/project-hellhound/X5Sentry) — Advanced XSS detection & exploitation research toolkit *(led by [GH05T](https://github.com/L33TxGH05T))*
+- [**Butcher**](https://github.com/project-hellhound-org/Butcher) - Surgical Web Scraper — Deep extraction, headless rendering, and pattern-based harvesting for high-fidelity data intelligence.
 
 ---
 
