@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Hellhound Terminal</title>
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet"/>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:#000;display:flex;align-items:center;justify-content:center;min-height:100vh;padding:20px}
+.term{background:#0a0000;border:1.5px solid #cc0000;border-radius:6px;font-family:'Share Tech Mono',monospace;font-size:14px;color:#ff3b3b;overflow:hidden;width:100%;max-width:680px;box-shadow:0 0 40px rgba(200,0,0,0.2)}
+.titlebar{background:#1a0000;border-bottom:1px solid #cc0000;padding:9px 16px;display:flex;align-items:center;gap:8px}
+.dot{width:12px;height:12px;border-radius:50%}
+.d1{background:#ff3b3b}.d2{background:#cc0000}.d3{background:#8b0000}
+.title-text{flex:1;text-align:center;font-size:11px;color:#cc0000;letter-spacing:3px}
+.wrap{position:relative;overflow:hidden}
+.screen{padding:20px 24px 26px;min-height:380px;line-height:1.8}
+.line{display:block;white-space:pre}
+.prompt{color:#ff6666}
+.cmd{color:#ffffff}
+.out{color:#ff3b3b}
+.dim{color:#660000}
+.cursor{display:inline-block;width:9px;height:15px;background:#ff3b3b;margin-left:1px;vertical-align:middle;animation:blink 1s step-end infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+.scanline{position:absolute;top:0;left:0;width:100%;height:4px;background:linear-gradient(transparent,rgba(255,59,59,0.08),transparent);animation:scan 4s linear infinite;pointer-events:none}
+@keyframes scan{0%{top:-4px}100%{top:100%}}
+.flicker{animation:flicker 8s infinite}
+@keyframes flicker{0%,95%,97%,100%{opacity:1}96%{opacity:0.92}}
+</style>
+</head>
+<body>
+<div class="term flicker">
+  <div class="titlebar">
+    <div class="dot d1"></div><div class="dot d2"></div><div class="dot d3"></div>
+    <span class="title-text">HELLHOUND TERMINAL v5.5 -- root@hellhound</span>
+  </div>
+  <div class="wrap">
+    <div class="scanline"></div>
+    <div class="screen" id="screen"></div>
+  </div>
+</div>
+<script>
+const lines=[
+  {t:'prompt',v:'root@hellhound:~# '},{t:'cmd',v:'whoami'},{t:'br'},
+  {t:'dim',v:'---------------------------------------------'},
+  {t:'out',v:'  HANDLE    :  L4ZZ3RJ0D'},
+  {t:'out',v:'  NAME      :  Sree Danush S'},
+  {t:'out',v:'  LOCATION  :  Tamil Nadu, India'},
+  {t:'out',v:'  DEGREE    :  BE Cyber Security'},
+  {t:'out',v:'  COLLEGE   :  Mahendra Engineering College'},
+  {t:'out',v:'  CGPA      :  8.31 / 10'},
+  {t:'dim',v:'---------------------------------------------'},
+  {t:'br'},
+  {t:'prompt',v:'root@hellhound:~# '},{t:'cmd',v:'cat stats.txt'},{t:'br'},
+  {t:'dim',v:'---------------------------------------------'},
+  {t:'out',v:'  INTERNSHIPS   :  5'},
+  {t:'out',v:'  GITHUB REPOS  :  22+'},
+  {t:'out',v:'  THM RANK      :  Top 1% [0xE][GUARDIAN]'},
+  {t:'out',v:'  THM ROOMS     :  350+  |  38 badges'},
+  {t:'out',v:'  HACKINGHUB    :  Top 300 All Time'},
+  {t:'dim',v:'---------------------------------------------'},
+  {t:'br'},
+  {t:'prompt',v:'root@hellhound:~# '},{t:'cmd',v:'cat tags.txt'},{t:'br'},
+  {t:'dim',v:'---------------------------------------------'},
+  {t:'out',v:'  [+] Co-Founder @ TriOps Security'},
+  {t:'out',v:'  [+] Offensive Security Research'},
+  {t:'out',v:'  [+] Automated Penetration Testing'},
+  {t:'out',v:'  [+] Web Application Security'},
+  {t:'out',v:'  [+] AI / LLM Security Testing'},
+  {t:'out',v:'  [+] CTF Practitioner'},
+  {t:'dim',v:'---------------------------------------------'},
+  {t:'br'},
+  {t:'prompt',v:'root@hellhound:~# '},{t:'cmd',v:'echo $MISSION'},{t:'br'},
+  {t:'dim',v:'---------------------------------------------'},
+  {t:'out',v:'  Building autonomous offensive tools'},
+  {t:'out',v:'  at the intersection of web security,'},
+  {t:'out',v:'  AI, and automation.'},
+  {t:'out',v:'  Production-grade engineering. Not a side project.'},
+  {t:'dim',v:'---------------------------------------------'},
+  {t:'br'},
+  {t:'prompt',v:'root@hellhound:~# '},{t:'cursor'}
+];
+const screen=document.getElementById('screen');
+let li=0,ci=0,cur=null;
+function step(){
+  if(li>=lines.length)return;
+  const item=lines[li];
+  if(item.t==='br'){
+    screen.appendChild(document.createElement('br'));
+    li++;setTimeout(step,55);return;
+  }
+  if(item.t==='cursor'){
+    const c=document.createElement('span');c.className='cursor';screen.appendChild(c);return;
+  }
+  if(ci===0){cur=document.createElement('span');cur.className='line '+item.t;screen.appendChild(cur);}
+  if(ci<item.v.length){
+    cur.textContent+=item.v[ci];ci++;
+    const d=item.t==='cmd'?65+Math.random()*45:item.t==='dim'?6:14;
+    setTimeout(step,d);
+  } else {
+    if(item.t!=='prompt')screen.appendChild(document.createElement('br'));
+    li++;ci=0;
+    const pause=item.t==='cmd'?380:item.t==='prompt'?0:18;
+    setTimeout(step,pause);
+  }
+}
+setTimeout(step,700);
+</script>
+</body>
+</html>
