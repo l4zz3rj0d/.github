@@ -297,9 +297,6 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 | Hands-on Pentesting with Metasploit | Infosys Springboard | [View](https://drive.google.com/file/d/1vTxTJONank6EKcmtlcUHGMt2x5A4WreI) |
 | CCEP -- Certified Cybersecurity Educator Professional | Red Team Leaders | [View](https://drive.google.com/file/d/1KMDAmhTNo8vxImXOY7HgVvcG8qAGA4_F) |
 | Cisco Ethical Hacker | Cisco | [View](https://drive.google.com/file/d/17AeBj7gnI9NYn1ks2VJdGeIW1MsOBcYi) |
-| Network Defence Essentials | EC-Council | -- |
-| Digital Forensic Essentials | EC-Council | -- |
-| Ethical Hacking Essentials | EC-Council | -- |
 
 </div>
 
