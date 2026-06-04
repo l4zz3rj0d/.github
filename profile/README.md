@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=L4ZZ3RJ0D&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Sree+Danush+S+%7C+Offensive+Security+Engineer+%7C+Tool+Builder&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,50:1a0000,100:cc0000&height=180&text=L4ZZ3RJ0D&fontSize=70&fontColor=ff3b3b&animation=blinking&fontAlignY=55&desc=Sree+Danush+S+%7C+Offensive+Security+Engineer+%7C+Tool+Builder&descAlignY=75&descSize=16"/>
 
 <div align="center">
 
@@ -8,9 +8,11 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=l4zz3rj0d&color=ff3b3b&style=flat-square&label=INTRUSIONS+LOGGED)](https://github.com/l4zz3rj0d)
 [![GitHub](https://img.shields.io/badge/GITHUB-l4zz3rj0d-ff3b3b?style=flat-square&logo=github&logoColor=white)](https://github.com/l4zz3rj0d)
-[![Medium](https://img.shields.io/badge/WRITEUPS-%40l4zz3rj0d-cc0000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@l4zz3rj0d)
+[![Org](https://img.shields.io/badge/ORG-project--hellhound-cc0000?style=flat-square&logo=github&logoColor=white)](https://github.com/project-hellhound-org)
+[![Medium](https://img.shields.io/badge/WRITEUPS-%40l4zz3rj0d-cc0000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@l4zz3rj0d/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ssreedanush-8b0000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssreedanush/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-l4zz3rj0d.github.io-8b0000?style=flat-square&logo=githubpages&logoColor=white)](https://l4zz3rj0d.github.io)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-TOP_1%25-ff3b3b?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-TOP_1%25-ff3b3b?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/L4ZZ3RJ0D)
 
 </div>
 
@@ -18,60 +20,21 @@
 
 ## [+] OPERATOR PROFILE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+operator.conf;Initializing+operator+profile...;Loading+mission+parameters...;All+systems+nominal." alt="Profile Typing"/>
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-```
-root@hellhound:~# whoami
--------------------------------------
-  HANDLE    :  L4ZZ3RJ0D
-  NAME      :  Sree Danush S
-  LOCATION  :  Tamil Nadu, India
-  DEGREE    :  BE Cyber Security
-  COLLEGE   :  Mahendra Engineering
-               College, Namakkal
-  CGPA      :  8.31 / 10
--------------------------------------
-root@hellhound:~# cat stats.txt
-
-  INTERNSHIPS   :  5
-  GITHUB REPOS  :  22+
-  THM RANK      :  Top 1% [0xE][GUARDIAN]
-  THM ROOMS     :  350+  |  38 badges
-  HACKINGHUB    :  Top 300 All Time
--------------------------------------
-root@hellhound:~# cat tags.txt
-
-  [+] Co-Founder @ TriOps Security
-  [+] Offensive Security Research
-  [+] Automated Penetration Testing
-  [+] Web Application Security
-  [+] AI / LLM Security Testing
-  [+] CTF Practitioner
--------------------------------------
-root@hellhound:~# echo $MISSION
-
-  Building autonomous offensive tools
-  at the intersection of web security,
-  AI, and automation.
--------------------------------------
-```
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<img width="95%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1800&pause=200&color=FF3B3B&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=340&lines=root%40hellhound%3A~%23+whoami;-----------------------------------------------;++++HANDLE++++%3A++L4ZZ3RJ0D;++++NAME+++++%3A++Sree+Danush+S;++++LOCATION+%3A++Tamil+Nadu%2C+India;++++DEGREE+++%3A++BE+Cyber+Security;++++CGPA++++%3A++8.31+%2F+10;-----------------------------------------------;root%40hellhound%3A~%23+cat+stats.txt;++++INTERNSHIPS++++%3A++5;++++GITHUB+REPOS++%3A++22%2B;++++THM+RANK++++++%3A++Top+1%25+%5B0xE%5D%5BGUARDIAN%5D;++++HACKINGHUB++++%3A++Top+300+All+Time;-----------------------------------------------;root%40hellhound%3A~%23+echo+%24MISSION;++++Building+autonomous+offensive+tools;++++at+the+intersection+of+web+%26+AI." alt="Terminal Animation"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=2200&pause=600&color=FF3B3B&center=true&vCenter=true&width=380&lines=Currently+Building...;%5BLIVE%5D+CyTrack+%40+CyArt;%5BLIVE%5D+Hellhound+Framework;%5BLIVE%5D+x5sentry+XSS+Hunter;%5BLIVE%5D+JOE-GOLDBERG+OSINT" alt="Building Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=600&color=FF3B3B&center=true&vCenter=true&width=500&lines=%5BLIVE%5D+CyTrack+--+Multi-Agent+Pentesting+%40+CyArt;%5BLIVE%5D+Hellhound+--+Modular+Pentest+Framework;%5BLIVE%5D+x5sentry+--+Autonomous+XSS+Hunter;%5BLIVE%5D+JOE-GOLDBERG+--+OSINT+Investigation+Tool;%5B+%5D+root%40hellhound%3A~%23+_" alt="Active Ops Typing"/>
 
-</td>
-</tr>
-</table>
+</div>
+
+<br/>
+
+<div align="center">
+<img width="60%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</div>
 
 ---
 
@@ -140,7 +103,7 @@ root@hellhound:~# echo $MISSION
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=400&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+ls+project-hellhound%2F;spider%2F+%7C+pentest%2F+%7C+cmdmap%2F+%7C+joe%2F+%7C+x5sentry%2F;Loading+project+manifest..." alt="Tools Typing"/>
 
 <details>
-<summary><b>>> Hellhound Spider // project-hellhound/spider // [ACTIVE]</b></summary>
+<summary><b>>> Hellhound Spider // [project-hellhound-org/spider](https://github.com/project-hellhound-org/spider) // [ACTIVE]</b></summary>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Initializing+spider+module...;Headless+browser+ready.;Crawling+target+surface..." alt="Spider Typing"/>
@@ -152,7 +115,7 @@ Async web crawler engineered for security testing. Maps endpoints, parameters, a
 </details>
 
 <details>
-<summary><b>>> Hellhound Framework // project-hellhound/pentest // [IN DEV]</b></summary>
+<summary><b>>> Hellhound Framework // [project-hellhound-org/pentest](https://github.com/project-hellhound-org/pentest) // [IN DEV]</b></summary>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Loading+Hellhound+core...;AI+engine+online.;Apex-King+HUD+ready." alt="Framework Typing"/>
@@ -164,7 +127,7 @@ High-fidelity security framework for professional web application assessments. I
 </details>
 
 <details>
-<summary><b>>> CMDmap // project-hellhound/cmdmap // [ACTIVE]</b></summary>
+<summary><b>>> CMDmap // [project-hellhound-org/cmdmap](https://github.com/project-hellhound-org/cmdmap) // [ACTIVE]</b></summary>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Scanning+injection+vectors...;OS+fingerprint+detected.;Tier+1+payload+deployed." alt="CMDmap Typing"/>
@@ -176,7 +139,7 @@ Autonomous command injection detector with SPA-aware crawler and 5-tier injectio
 </details>
 
 <details>
-<summary><b>>> JOE-GOLDBERG // project-hellhound/joe // [IN DEV]</b></summary>
+<summary><b>>> JOE-GOLDBERG // [project-hellhound-org/joe](https://github.com/project-hellhound-org/joe) // [IN DEV]</b></summary>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Joe+is+watching...;Connecting+the+dots...;Case+file+created." alt="Joe Typing"/>
@@ -188,7 +151,7 @@ OSINT investigation tool named after the obsessive character from YOU. Gathers p
 </details>
 
 <details>
-<summary><b>>> x5sentry // project-hellhound/x5sentry // [ACTIVE]</b></summary>
+<summary><b>>> x5sentry // [project-hellhound-org/x5sentry](https://github.com/project-hellhound-org/x5sentry) // [ACTIVE]</b></summary>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Injecting+XSS+payload...;DOM+analysis+running...;Blind+XSS+callback+received." alt="x5sentry Typing"/>
@@ -264,7 +227,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 | Repository | Contribution | Merged |
 |:-----------|:-------------|:------:|
-| [project-hellhound/x5sentry](https://github.com/project-hellhound/x5sentry) | Advanced scanning mechanics -- DOM, mXSS, uXSS, Blind XSS detection payloads via headless Playwright injection | 2026-05-15 |
+| [project-hellhound/x5sentry](https://github.com/project-hellhound-org/x5sentry) | Advanced scanning mechanics -- DOM, mXSS, uXSS, Blind XSS detection payloads via headless Playwright injection | 2026-05-15 |
 | [cyart/cytrack](https://github.com/l4zz3rj0d) | Multi-agent orchestration layer coordinating independent offensive scanners across complex web routing structures | 2026-05-10 |
 
 </div>
@@ -279,8 +242,8 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 | Event | Team | Rank | Score | Categories |
 |:------|:----:|:----:|:-----:|:-----------|
-| HackAstra CTF Qualifiers 2026 | H3LLH0UND | **119 / 455** | 1250 pts | Web, Crypto, OSINT |
-| SecLeaf Q2 CTF 2026 | H3LLH0UND | **179 / 1050+** | 3080 pts / 22 Solves | Web Exploitation, Crypto, OSINT |
+| [HackAstra CTF Qualifiers 2026](https://drive.google.com/file/d/1qHZYEr_-Q-sL1edi3AHfaRv5K7OncmZ-/view?usp=sharing) | H3LLH0UND | **119 / 455** | 1250 pts | Web, Crypto, OSINT |
+| [SecLeaf Q2 CTF 2026](https://drive.google.com/file/d/1N_Ve0VU3lR6TTnUw5rHlcxfbn2CPnEiS/view?usp=sharing) | H3LLH0UND | **179 / 1050+** | 3080 pts / 22 Solves | Web Exploitation, Crypto, OSINT |
 
 </div>
 
@@ -294,7 +257,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 | Platform | Status | Details |
 |:---------|:------:|:--------|
-| TryHackMe | **Top 1% Global** | Rank 5565 -- [0xE][GUARDIAN] -- 350+ rooms -- 38 badges |
+| [TryHackMe](https://tryhackme.com/p/L4ZZ3RJ0D) | **Top 1% Global** | Rank 5565 -- [0xE][GUARDIAN] -- 350+ rooms -- 38 badges |
 | HackingHub | **Top 300 All Time** | Consistent ranked performance across all categories |
 | Hack The Box | Active | All Tier 1 Starting Point machines completed |
 | PortSwigger Academy | Active | SQLi, Broken Auth, 2FA Bypass, Advanced Injection, LLM Attacks |
@@ -327,16 +290,16 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 <div align="center">
 
-| Certification | Issuer |
-|:--------------|:-------|
-| Jr. Penetration Tester | TryHackMe |
-| Web Application Pentesting | TryHackMe |
-| Hands-on Pentesting with Metasploit | Infosys Springboard |
-| CCEP -- Certified Cybersecurity Educator Professional | Red Team Leaders |
-| Cisco Ethical Hacker | Cisco |
-| Network Defence Essentials | EC-Council |
-| Digital Forensic Essentials | EC-Council |
-| Ethical Hacking Essentials | EC-Council |
+| Certification | Issuer | Verify |
+|:--------------|:-------|:------:|
+| Jr. Penetration Tester | TryHackMe | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-O59FSUN5EB.pdf) |
+| Web Application Pentesting | TryHackMe | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OYCBQIXUDM.pdf) |
+| Hands-on Pentesting with Metasploit | Infosys Springboard | [View](https://drive.google.com/file/d/1vTxTJONank6EKcmtlcUHGMt2x5A4WreI) |
+| CCEP -- Certified Cybersecurity Educator Professional | Red Team Leaders | [View](https://drive.google.com/file/d/1KMDAmhTNo8vxImXOY7HgVvcG8qAGA4_F) |
+| Cisco Ethical Hacker | Cisco | [View](https://drive.google.com/file/d/17AeBj7gnI9NYn1ks2VJdGeIW1MsOBcYi) |
+| Network Defence Essentials | EC-Council | -- |
+| Digital Forensic Essentials | EC-Council | -- |
+| Ethical Hacking Essentials | EC-Council | -- |
 
 </div>
 
@@ -374,4 +337,4 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=130&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:cc0000,100:0a0000&height=100&section=footer&reversal=true"/>
