@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=L4ZZ3RJ0D&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Sree+Danush+S+%7C+Offensive+Security+Engineer+%7C+Tool+Builder&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=200&section=header&text=L4ZZ3RJ0D&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Sree+Danush+S+%7C+Offensive+Security+Engineer+%7C+Tool+Builder&descAlignY=60&descSize=18"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&multiline=false&width=800&lines=+%5BSYSTEM+ONLINE%5D+Offensive+Security+Engineer;+Building+Autonomous+Pentesting+Agents+%40+CyArt;+Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;+TryHackMe+Top+1%25+%7C+%5B0xE%5D%5BGUARDIAN%5D+%7C+350%2B+Rooms;+Co-Founder+%40+TriOps+Security" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Offensive+Security+Engineer;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25+%7C+%5B0xE%5D%5BGUARDIAN%5D+%7C+350%2B+Rooms;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
 
 <br/>
 
@@ -16,28 +16,16 @@
 
 ---
 
-<div align="center">
-
-```
-ooooo        ooooo    ooooooooooo  oooooooooooo  ooooooooooo  ooooo  ooooo  ooooooooo  ooooo  ooooo ooooo  ooooo ooooooooo
- 888          888     888    88     888          888           888    888    888    88   888    888   888    888   888    88
- 888          888     888ooo8       888oooo8     888ooo8       888    888    888    88   888    888   888    888   888    88
- 888      o   888     888    oo     888          888           888    888    888    88   888    888   888    888   888    88
-o888ooooo88  o888o   o888ooo8888   o888o        o888ooo8888  o888oo o888o  o888ooo88    888oo  88     888oo88    o888ooo88
-```
-
-</div>
-
----
-
 ## [+] OPERATOR PROFILE
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+operator.conf;Initializing+operator+profile...;Loading+mission+parameters...;All+systems+nominal." alt="Profile Typing"/>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ```
-root@hellhound:~# cat operator.conf
+root@hellhound:~# whoami
 -------------------------------------
   HANDLE    :  L4ZZ3RJ0D
   NAME      :  Sree Danush S
@@ -46,6 +34,14 @@ root@hellhound:~# cat operator.conf
   COLLEGE   :  Mahendra Engineering
                College, Namakkal
   CGPA      :  8.31 / 10
+-------------------------------------
+root@hellhound:~# cat stats.txt
+
+  INTERNSHIPS   :  5
+  GITHUB REPOS  :  22+
+  THM RANK      :  Top 1% [0xE][GUARDIAN]
+  THM ROOMS     :  350+  |  38 badges
+  HACKINGHUB    :  Top 300 All Time
 -------------------------------------
 root@hellhound:~# cat tags.txt
 
@@ -56,47 +52,22 @@ root@hellhound:~# cat tags.txt
   [+] AI / LLM Security Testing
   [+] CTF Practitioner
 -------------------------------------
-root@hellhound:~# cat stats.txt
-
-  INTERNSHIPS   :  5
-  GITHUB REPOS  :  22+
-  THM RANK      :  Top 1% [0xE][GUARDIAN]
-  THM ROOMS     :  350+ | 38 badges
-  HACKINGHUB    :  Top 300 All Time
--------------------------------------
 root@hellhound:~# echo $MISSION
 
   Building autonomous offensive tools
   at the intersection of web security,
-  AI, and automation. Production-grade
-  security engineering -- not hobbies.
+  AI, and automation.
 -------------------------------------
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img width="95%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 <br/>
 
-```
-root@hellhound:~# cat active_ops.txt
-
-  [LIVE]  CyTrack        @ CyArt
-          Multi-Agent Autonomous
-          Web Pentesting Platform
-
-  [LIVE]  Hellhound Framework
-          Modular Pentest Framework
-          Apex-King HUD (Electron)
-
-  [LIVE]  x5sentry
-          Autonomous XSS Hunter
-
-  [LIVE]  JOE-GOLDBERG
-          OSINT Investigation Tool
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=2200&pause=600&color=FF3B3B&center=true&vCenter=true&width=380&lines=Currently+Building...;%5BLIVE%5D+CyTrack+%40+CyArt;%5BLIVE%5D+Hellhound+Framework;%5BLIVE%5D+x5sentry+XSS+Hunter;%5BLIVE%5D+JOE-GOLDBERG+OSINT" alt="Building Typing"/>
 
 </td>
 </tr>
@@ -105,6 +76,8 @@ root@hellhound:~# cat active_ops.txt
 ---
 
 ## [+] TECHNICAL ARSENAL
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=400&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+ls+%2Fopt%2Ftools%2F;Scanning+arsenal...;%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25+loaded" alt="Arsenal Typing"/>
 
 <div align="center">
 
@@ -119,32 +92,34 @@ root@hellhound:~# cat active_ops.txt
 ![Ghidra](https://img.shields.io/badge/GHIDRA-FF0000?style=flat-square&logo=redhat&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/AUTOPSY-333333?style=flat-square&logo=linux&logoColor=white)
 ![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=flat-square&logo=splunk&logoColor=white)
+![Hellhound](https://img.shields.io/badge/HELLHOUND_FRAMEWORK-FF3B3B?style=flat-square&logo=github&logoColor=white)
 
 **[ WEB SECURITY AREAS ]**
 
-![Injection](https://img.shields.io/badge/INJECTION_VULNS-FF3B3B?style=flat-square&logo=owasp&logoColor=white)
-![Auth](https://img.shields.io/badge/BROKEN_AUTH-CC0000?style=flat-square&logo=owasp&logoColor=white)
-![Access Control](https://img.shields.io/badge/ACCESS_CONTROL-8B0000?style=flat-square&logo=owasp&logoColor=white)
-![LLM](https://img.shields.io/badge/WEB_LLM_ATTACKS-990000?style=flat-square&logo=openai&logoColor=white)
-![API](https://img.shields.io/badge/API_SECURITY-FF3B3B?style=flat-square&logo=postman&logoColor=white)
+![Injection](https://img.shields.io/badge/INJECTION_VULNS-FF3B3B?style=flat-square&logoColor=white)
+![Auth](https://img.shields.io/badge/BROKEN_AUTH-CC0000?style=flat-square&logoColor=white)
+![Access Control](https://img.shields.io/badge/ACCESS_CONTROL_FLAWS-8B0000?style=flat-square&logoColor=white)
+![LLM](https://img.shields.io/badge/WEB_LLM_ATTACKS-990000?style=flat-square&logoColor=white)
+![API](https://img.shields.io/badge/API_SECURITY-FF3B3B?style=flat-square&logoColor=white)
 ![PrivEsc](https://img.shields.io/badge/LINUX_PRIVESC-CC0000?style=flat-square&logo=linux&logoColor=white)
 
 **[ HARDWARE & WIRELESS ]**
 
-![Kali](https://img.shields.io/badge/KALI_LINUX-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![RPi](https://img.shields.io/badge/RASPBERRY_PI_PICO-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Deauth](https://img.shields.io/badge/DEAUTH_ATTACKS-8B0000?style=flat-square&logo=wifi&logoColor=white)
-![Evil Twin](https://img.shields.io/badge/EVIL_TWIN_AP-CC0000?style=flat-square&logo=wifi&logoColor=white)
+![Deauth](https://img.shields.io/badge/DEAUTH_ATTACKS-8B0000?style=flat-square&logoColor=white)
+![Evil Twin](https://img.shields.io/badge/EVIL_TWIN_AP-CC0000?style=flat-square&logoColor=white)
+![HID](https://img.shields.io/badge/HID_INJECTION-FF3B3B?style=flat-square&logoColor=white)
 
 **[ PLATFORMS & LABS ]**
 
+![Kali](https://img.shields.io/badge/KALI_LINUX-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![THM](https://img.shields.io/badge/TRYHACKME-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 ![HTB](https://img.shields.io/badge/HACK_THE_BOX-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 ![PortSwigger](https://img.shields.io/badge/PORTSWIGGER_ACADEMY-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Android](https://img.shields.io/badge/ANDROID_PENTESTING_(DIVA)-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Bugcrowd](https://img.shields.io/badge/BUGCROWD_(BUG_BOUNTY)-F26822?style=flat-square&logo=bugcrowd&logoColor=white)
+![Android](https://img.shields.io/badge/ANDROID_PENTESTING_DIVA-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Bugcrowd](https://img.shields.io/badge/BUGCROWD_BUG_BOUNTY-F26822?style=flat-square&logo=bugcrowd&logoColor=white)
 
 **[ BUILD STACK ]**
 
@@ -162,103 +137,65 @@ root@hellhound:~# cat active_ops.txt
 
 ## [+] AUTONOMOUS TOOLS
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=400&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+ls+project-hellhound%2F;spider%2F+%7C+pentest%2F+%7C+cmdmap%2F+%7C+joe%2F+%7C+x5sentry%2F;Loading+project+manifest..." alt="Tools Typing"/>
+
 <details>
 <summary><b>>> Hellhound Spider // project-hellhound/spider // [ACTIVE]</b></summary>
-
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Initializing+spider+module...;Headless+browser+ready.;Crawling+target+surface..." alt="Spider Typing"/>
 
 > `Python` `Playwright` `Async Crawling` `SPA Support` `Headless Browser` `Endpoint Mapping`
 
-```
-STATUS   : ACTIVE
-REPO     : project-hellhound/spider
-PURPOSE  : Async web crawler for security testing
-```
-
-Async web crawler engineered for security testing -- maps endpoints, parameters, and security issues across traditional and SPA web applications. Standalone CLI tool with headless browser support. Finds what standard spiders miss: XHR routes, JS-rendered forms, POST handlers, and hidden parameters.
-
-- v12.0 modular framework module with three-phase SPA interaction engine
-- XHR response capture, POST body harvesting, JS endpoint analysis
-- networkidle wait strategy for full SPA render before crawl
-- Subdomain enumeration and cloud asset probing integrated
+Async web crawler engineered for security testing. Maps endpoints, parameters, and security issues across traditional and SPA web applications. v12.0 with three-phase SPA interaction, XHR capture, POST body harvesting, JS endpoint analysis, networkidle wait, subdomain enumeration, and cloud asset probing.
 
 </details>
 
 <details>
 <summary><b>>> Hellhound Framework // project-hellhound/pentest // [IN DEV]</b></summary>
-
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Loading+Hellhound+core...;AI+engine+online.;Apex-King+HUD+ready." alt="Framework Typing"/>
 
 > `Python` `Electron` `Ollama` `Playwright` `Multi-Agent` `Cytoscape.js` `Kill-Chain`
 
-```
-STATUS   : IN DEV
-REPO     : project-hellhound/pentest
-PURPOSE  : High-fidelity modular security framework
-```
-
-High-fidelity security framework engineered for professional web application assessments. Features an intelligent AI core enabling automated attack-chain correlation, context-aware verification, and a modular arsenal of autonomous security auditors. Apex-King HUD (Electron GUI) with Cytoscape.js attack graph, dual-engine architecture, kill-chain tracker, session export, and local Ollama AI chatbox.
-
-- CMDi module (HELLHOUND v5.5) -- Linux/Windows with blind timing detection
-- SQLi GET/POST, NoSQLi (MongoDB), IDOR, XSS agent layers
-- Per-command queue with prompt acknowledgement and output filtering
-- Telemetry panel, Intel Center, loot directory scanner
+High-fidelity security framework for professional web application assessments. Intelligent AI core for automated attack-chain correlation and context-aware verification. Apex-King HUD (Electron GUI) with Cytoscape.js attack graph, dual-engine architecture, kill-chain tracker, session export, and local Ollama AI chatbox. Agents for CMDi (v5.5), SQLi, NoSQLi, IDOR, and XSS.
 
 </details>
 
 <details>
 <summary><b>>> CMDmap // project-hellhound/cmdmap // [ACTIVE]</b></summary>
-
 <br/>
 
-> `Python` `Bash` `WAF Detection` `OS Fingerprinting` `Blind CMDi` `OOB` `PoC Generation`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Scanning+injection+vectors...;OS+fingerprint+detected.;Tier+1+payload+deployed." alt="CMDmap Typing"/>
 
-```
-STATUS   : ACTIVE
-REPO     : project-hellhound/cmdmap
-PURPOSE  : Autonomous command injection detector
-```
+> `Python` `Bash` `WAF Detection` `OS Fingerprinting` `5-Tier Engine` `Blind CMDi` `OOB` `PoC Generation`
 
-High-fidelity, autonomous command injection detector built for modern web targets. Pairs a SPA-aware crawler with a 5-tier injection engine that auto-escalates from direct output tests through timing-based blind detection to OOB callbacks -- stopping only when execution is confirmed or all vectors are exhausted. Every finding is verified, timestamped, and delivered with a ready-to-run curl PoC.
-
-- Payload loader dispatching on OS fingerprint, WAF detection, param names, OOB flag
-- Step 0 POST hint extraction pass for parameterless endpoint analysis
-- Fast-bail on Tier 2, 404-abort on Tier 4 for dramatic speed gains
-- Extended `_HINT_MAP` with dedup, SPAProber fallback, URL rebasing
+Autonomous command injection detector with SPA-aware crawler and 5-tier injection engine that auto-escalates from direct output through timing-based blind detection to OOB callbacks. Every finding verified, timestamped, and delivered with a ready-to-run curl PoC.
 
 </details>
 
 <details>
 <summary><b>>> JOE-GOLDBERG // project-hellhound/joe // [IN DEV]</b></summary>
-
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Joe+is+watching...;Connecting+the+dots...;Case+file+created." alt="Joe Typing"/>
 
 > `Python` `PyWebView` `Gemini 2.5 Flash` `OSINT` `Zero API Keys` `Case Files`
 
-```
-STATUS   : IN DEV
-REPO     : l4zz3rj0d/JOE-GOLDBERG
-PURPOSE  : OSINT investigation tool
-```
-
-Named after the obsessive, detail-oriented character from YOU. Just like Joe, this tool notices everything -- gathers publicly available information about a target, connects the dots, and narrates findings in his voice. Built for penetration testers, bug bounty hunters, CTF players, and security researchers. No API keys for recon. No subscriptions. No data leaving your machine. Case files saved as JSON and HTML, callable system-wide as `joe`.
+OSINT investigation tool named after the obsessive character from YOU. Gathers publicly available information, connects the dots, narrates findings in his voice. No API keys for recon. No data leaving your machine. Case files as JSON and HTML, callable system-wide as `joe`.
 
 </details>
 
 <details>
 <summary><b>>> x5sentry // project-hellhound/x5sentry // [ACTIVE]</b></summary>
-
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Injecting+XSS+payload...;DOM+analysis+running...;Blind+XSS+callback+received." alt="x5sentry Typing"/>
 
 > `Python` `Playwright` `DOM Analysis` `mXSS` `uXSS` `Blind XSS` `Headless Injection`
 
-```
-STATUS   : ACTIVE
-REPO     : project-hellhound/x5sentry
-PURPOSE  : Autonomous XSS Hunter & Exploit Builder
-```
-
-Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detection via headless browser injection engine powered by Playwright. Contributed advanced scanning mechanics merged into project-hellhound org (2026-05-15).
+Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detection via headless Playwright injection engine. Advanced scanning mechanics merged into project-hellhound org (2026-05-15).
 
 </details>
 
@@ -266,56 +203,54 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ## [+] EXPERIENCE
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+experience.log;5+internships+%7C+Production+security+engineering;Not+side+projects.+Real+targets.+Real+code." alt="Experience Typing"/>
+
 <details>
 <summary><b>>> CyArt // VAPT Intern // CyTrack Platform // Dec 2025 - Present // Remote</b></summary>
-
 <br/>
 
 > `Python` `Multi-Agent Architecture` `SQLi` `NoSQLi` `CMDi` `BAC` `Autonomous Agents`
 
 - Contribute across multiple agent layers in **CyTrack** -- a 6-agent autonomous web pentesting platform running against real targets in production
 - Build production-grade Python agents each scoped to a distinct vulnerability class: SQLi GET/POST, NoSQLi (MongoDB), CMDi Linux/Windows, BAC detection
-- Authored the multi-agent orchestration layer (merged 2026-05-10) coordinating independent offensive scanners across complex web application routing structures
-- Operate inside a real engineering team with code review, merge gates, and live deployment of security tooling
+- Authored multi-agent orchestration layer (merged 2026-05-10) coordinating independent offensive scanners across complex web routing structures
+- Real engineering team: code review, merge gates, live deployment of security tooling
 
 </details>
 
 <details>
 <summary><b>>> Cyber Secured India // Hardware Hacking Intern // Sep 2025 - Nov 2025 // Remote</b></summary>
-
 <br/>
 
 > `ESP32` `ESP8266` `Deauth Attacks` `Evil Twin AP` `IoT Security` `RF Attack Surface`
 
-- Performed deauthentication attacks and Evil Twin AP setups using ESP32 and ESP8266 microcontrollers
-- Studied IoT device attack surfaces, wireless network vulnerability concepts, and RF-based attack methodologies
-- Gained foundational understanding of hardware-level offensive security beyond purely software attack vectors
+- Performed deauthentication attacks and Evil Twin AP setups using ESP32 and ESP8266
+- Studied IoT device attack surfaces, wireless network vulnerability concepts, RF-based attack methodologies
+- Foundational hardware-level offensive security beyond purely software attack vectors
 
 </details>
 
 <details>
 <summary><b>>> Cyber Secured India // Cybersecurity & Digital Forensic Intern // Apr 2025 - Jun 2025 // Remote</b></summary>
-
 <br/>
 
 > `Web App Security` `Digital Forensics` `PortSwigger Labs` `SQLi` `Broken Auth` `2FA Bypass` `DIVA`
 
-- Completed 10+ PortSwigger Web Security Academy labs covering SQLi, Broken Authentication, 2FA bypass, and enumeration
-- Exploited VulnHub machine -- Pluck CMS 4.7.16 RCE -- and published a full technical writeup on Medium
-- Studied Android application security using DIVA (Damn Insecure and Vulnerable App)
+- Completed 10+ PortSwigger Web Security Academy labs: SQLi, Broken Auth, 2FA bypass, enumeration
+- Exploited VulnHub machine -- Pluck CMS 4.7.16 RCE -- published full technical writeup on Medium
+- Studied Android application security using DIVA
 
 </details>
 
 <details>
 <summary><b>>> Pondicherry Cyber Crime Department // Cybersecurity Intern // Jan 2025 // Pondicherry</b></summary>
-
 <br/>
 
 > `Digital Forensics` `Evidence Handling` `HID Injection` `Raspberry Pi Pico` `Rubber Ducky`
 
-- Observed live cybercrime investigations inside a government law enforcement department -- real cases, real protocols
-- Gained hands-on understanding of digital evidence handling, chain-of-custody, and law enforcement cybersecurity operations
-- Built a functional **Raspberry Pi Pico Rubber Ducky** -- a HID keystroke injection device for penetration testing research
+- Observed live cybercrime investigations inside a government law enforcement department
+- Hands-on understanding of digital evidence handling, chain-of-custody, law enforcement protocols
+- Built a functional **Raspberry Pi Pico Rubber Ducky** -- HID keystroke injection device for pentest research
 
 </details>
 
@@ -323,12 +258,14 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ## [+] OPEN SOURCE CONTRIBUTIONS
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+git+log+--author%3DL4ZZ3RJ0D;2+merged+contributions+in+production;Real+codebases.+Real+impact." alt="Contributions Typing"/>
+
 <div align="center">
 
 | Repository | Contribution | Merged |
 |:-----------|:-------------|:------:|
 | [project-hellhound/x5sentry](https://github.com/project-hellhound/x5sentry) | Advanced scanning mechanics -- DOM, mXSS, uXSS, Blind XSS detection payloads via headless Playwright injection | 2026-05-15 |
-| [cyart/cytrack](https://github.com/l4zz3rj0d) | Multi-agent orchestration layer coordinating independent offensive scanners across complex web application routing structures | 2026-05-10 |
+| [cyart/cytrack](https://github.com/l4zz3rj0d) | Multi-agent orchestration layer coordinating independent offensive scanners across complex web routing structures | 2026-05-10 |
 
 </div>
 
@@ -336,9 +273,9 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ## [+] PROOF OF WORK // CTF CAMPAIGNS
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=1000&color=FF3B3B&center=false&vCenter=true&width=700&lines=root%40hellhound%3A~%23+cat+ctf_results.txt;%5BHACKASTRA+2026%5D+Rank+119+%2F+455+%7C+1250+pts;%5BSECLEAF+Q2+2026%5D+Rank+179+%2F+1050%2B+%7C+3080+pts+%7C+22+Solves;Team+H3LLH0UND+%7C+Web+%7C+Crypto+%7C+OSINT" alt="CTF Typing"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=2000&color=FF3B3B&center=true&vCenter=true&width=700&lines=%5BHACKASTRA+2026%5D+Rank+119+%2F+455+%7C+1250+pts+%7C+Team+H3LLH0UND;%5BSECLEAF+Q2+2026%5D+Rank+179+%2F+1050%2B+%7C+3080+pts+%7C+22+Solves+%7C+Team+H3LLH0UND" alt="CTF Results"/>
+<div align="center">
 
 | Event | Team | Rank | Score | Categories |
 |:------|:----:|:----:|:-----:|:-----------|
@@ -349,18 +286,18 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ---
 
-## [+] PLATFORM RANKINGS & LABS
+## [+] PLATFORM RANKINGS & ACTIVE LABS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=900&color=FF3B3B&center=false&vCenter=true&width=700&lines=TryHackMe+%5B0xE%5D%5BGUARDIAN%5D+%7C+Top+1%25+%7C+5565+%7C+350%2B+rooms;HackingHub+Top+300+All+Time;PortSwigger+Active+%7C+LLM+Attacks+%7C+Injection+Series;HackSmarter+Labs+%7C+AI+%26+LLM+Security+Focus" alt="Rankings Typing"/>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1500&color=FF3B3B&center=true&vCenter=true&width=700&lines=TryHackMe+%5B0xE%5D%5BGUARDIAN%5D+%7C+Top+1%25+Global+%7C+Rank+5565+%7C+350%2B+rooms+%7C+38+badges;HackingHub+Top+300+All+Time+%7C+Consistent+Ranked+Performance;PortSwigger+Academy+%7C+Active+%7C+SQLi%2C+Auth%2C+Injection%2C+LLM+Attacks;HackSmarter+Labs+%7C+Active+%7C+AI+%26+LLM+Security+Focus" alt="Platform Stats"/>
 
 | Platform | Status | Details |
 |:---------|:------:|:--------|
 | TryHackMe | **Top 1% Global** | Rank 5565 -- [0xE][GUARDIAN] -- 350+ rooms -- 38 badges |
-| HackingHub | **Top 300 All Time** | Consistent ranked performance across all challenge categories |
+| HackingHub | **Top 300 All Time** | Consistent ranked performance across all categories |
 | Hack The Box | Active | All Tier 1 Starting Point machines completed |
-| PortSwigger Academy | Active | SQLi series, Broken Auth, 2FA Bypass, Advanced Injection, LLM Attacks |
+| PortSwigger Academy | Active | SQLi, Broken Auth, 2FA Bypass, Advanced Injection, LLM Attacks |
 | AI & LLM Security | Emerging Focus | Web LLM attacks, prompt injection, indirect injection |
 | HackSmarter Labs | Active | Offensive security skill development |
 
@@ -370,13 +307,9 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ## [+] GITHUB TELEMETRY
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+gh+api+%2Fusers%2Fl4zz3rj0d;Fetching+commit+telemetry...;Rendering+contribution+graph..." alt="Telemetry Typing"/>
+
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=l4zz3rj0d&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff3b3b&icon_color=cc0000&text_color=c9d1d9&border_radius=10"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4zz3rj0d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff3b3b&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=l4zz3rj0d&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=FF3B3B&fire=CC0000&currStreakLabel=FF3B3B&sideLabels=ff6666&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
@@ -384,15 +317,13 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=l4zz3rj0d&theme=tokyo-night&bg_color=0d1117&color=ff3b3b&line=cc0000&point=ff6666&area=true&hide_border=true" alt="Activity Graph"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=l4zz3rj0d&theme=flat&no-frame=true&no-bg=false&row=1&column=7&margin-w=4" alt="Trophies"/>
-
 </div>
 
 ---
 
 ## [+] CERTIFICATIONS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+certs.txt;8+certifications+%7C+TryHackMe+%7C+Cisco+%7C+EC-Council;Verified+credentials+loaded." alt="Certs Typing"/>
 
 <div align="center">
 
@@ -413,6 +344,8 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ## [+] EDUCATION
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+education.txt;BE+Cyber+Security+%7C+8.31+CGPA;Mahendra+Engineering+College%2C+Namakkal" alt="Education Typing"/>
+
 <div align="center">
 
 | Degree | Institution | Year | Score |
@@ -426,11 +359,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ## [+] WRITEUPS & RESEARCH
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3500&pause=1500&color=FF3B3B&center=true&vCenter=true&width=750&lines=cat+research%2F*.md+%7C+grep+%22vulnerability%22;HealthGPT+BAC+Research+%7C+Pluck+CMS+4.7.16+RCE+%7C+XXE+%7C+SSTI;Publishing+offensive+research+on+Medium+%40+l4zz3rj0d" alt="Writeups Typing"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=700&color=FF3B3B&center=false&vCenter=true&width=700&lines=root%40hellhound%3A~%23+cat+research%2F*.md+%7C+grep+CVE;HealthGPT+BAC+Research+%7C+Pluck+CMS+4.7.16+RCE;Mustacchio+XXE+%7C+PicoCTF+SSTI1+%7C+Medium+%40l4zz3rj0d" alt="Writeups Typing"/>
 
 - [HealthGPT: When "Access Denied" Accidentally Leaked Everything](https://medium.com/@l4zz3rj0d/healthgpt-when-access-denied-accidentally-leaked-everything-7d386e89f052)
 - [Pluck CMS 4.7.16 -- Remote Code Execution Exploit](https://medium.com/@l4zz3rj0d/pluck-cms-4-7-16-exploit-walkthrough-999df429c306)
@@ -441,13 +370,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 <div align="center">
 
-```
-root@hellhound:~# echo $MOTTO
-Automate the boring attacks. Perfect the creative ones.
-
-root@hellhound:~# exit
-Connection to hellhound closed.
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=2000&color=FF3B3B&center=true&vCenter=true&width=700&lines=root%40hellhound%3A~%23+echo+%24MOTTO;Automate+the+boring+attacks.+Perfect+the+creative+ones.;root%40hellhound%3A~%23+exit;Connection+to+hellhound+closed." alt="Footer Typing"/>
 
 </div>
 
