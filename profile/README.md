@@ -103,7 +103,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=400&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+ls+project-hellhound%2F;spider%2F+%7C+pentest%2F+%7C+cmdmap%2F+%7C+joe%2F+%7C+x5sentry%2F;Loading+project+manifest..." alt="Tools Typing"/>
 
 <details>
-<summary><b>>> Hellhound Spider // [project-hellhound-org/spider](https://github.com/project-hellhound-org/spider) // [ACTIVE]</b></summary>
+<summary><b>>> ![Hellhound Spider](https://github.com/project-hellhound-org/Hellhound-Spider) // [ACTIVE]</b></summary>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Initializing+spider+module...;Headless+browser+ready.;Crawling+target+surface..." alt="Spider Typing"/>
@@ -115,7 +115,7 @@ Async web crawler engineered for security testing. Maps endpoints, parameters, a
 </details>
 
 <details>
-<summary><b>>> Hellhound Framework // [project-hellhound-org/pentest](https://github.com/project-hellhound-org/pentest) // [IN DEV]</b></summary>
+<summary><b>>> [Hellhound Framework](https://github.com/project-hellhound-org/Hellhound-Pentest) // [IN DEV]</b></summary>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Loading+Hellhound+core...;AI+engine+online.;Apex-King+HUD+ready." alt="Framework Typing"/>
@@ -127,7 +127,7 @@ High-fidelity security framework for professional web application assessments. I
 </details>
 
 <details>
-<summary><b>>> CMDmap // [project-hellhound-org/cmdmap](https://github.com/project-hellhound-org/cmdmap) // [ACTIVE]</b></summary>
+<summary><b>>> [CMDmap](https://github.com/project-hellhound-org/cmdmap) // [ACTIVE]</b></summary>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Scanning+injection+vectors...;OS+fingerprint+detected.;Tier+1+payload+deployed." alt="CMDmap Typing"/>
@@ -139,7 +139,7 @@ Autonomous command injection detector with SPA-aware crawler and 5-tier injectio
 </details>
 
 <details>
-<summary><b>>> JOE-GOLDBERG // [project-hellhound-org/joe](https://github.com/project-hellhound-org/joe) // [IN DEV]</b></summary>
+<summary><b>>> [JOE-GOLDBERG](https://github.com/project-hellhound-org/JOE-GOLDBERG) // [IN DEV]</b></summary>
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Joe+is+watching...;Connecting+the+dots...;Case+file+created." alt="Joe Typing"/>
