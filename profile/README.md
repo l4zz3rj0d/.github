@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,50:1a0000,100:cc0000&height=180&text=L4ZZ3RJ0D&fontSize=70&fontColor=ff3b3b&animation=fadeIn&fontAlignY=55&desc=Sree+Danush+S+%7C+Offensive+Security+Engineer+%7C+Tool+Builder&descAlignY=75&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,50:1a0000,100:cc0000&height=180&text=L4ZZ3RJ0D&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Sree+Danush+S+%7C+Offensive+Security+Engineer+%7C+Tool+Builder&descAlignY=75&descSize=16&descColor=cccccc"/>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Offensive+Security+Engineer;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25+%7C+%5B0xE%5D%5BGUARDIAN%5D+%7C+350%2B+Rooms;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
@@ -16,10 +16,10 @@
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=320&lines=%5B%2B%5D+OPERATOR+PROFILE" alt="[+] OPERATOR PROFILE"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=280&lines=OPERATOR+PROFILE" alt="OPERATOR PROFILE"/></picture>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1800&pause=200&color=FF3B3B&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=340&lines=root%40hellhound%3A~%23+whoami;-----------------------------------------------;++++HANDLE++++%3A++L4ZZ3RJ0D;++++NAME+++++%3A++Sree+Danush+S;++++LOCATION+%3A++Tamil+Nadu%2C+India;++++DEGREE+++%3A++BE+Cyber+Security;++++CGPA++++%3A++8.31+%2F+10;-----------------------------------------------;root%40hellhound%3A~%23+cat+stats.txt;++++INTERNSHIPS++++%3A++5;++++GITHUB+REPOS++%3A++22%2B;++++THM+RANK++++++%3A++Top+1%25+%5B0xE%5D%5BGUARDIAN%5D;++++HACKINGHUB++++%3A++Top+300+All+Time;-----------------------------------------------;root%40hellhound%3A~%23+echo+%24MISSION;++++Building+autonomous+offensive+tools;++++at+the+intersection+of+web+%26+AI." alt="Terminal Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1800&pause=200&color=FF3B3B&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=340&lines=root%40hellhound%3A~%23+whoami;-----------------------------------------------;++++HANDLE++++%3A++L4ZZ3RJ0D;++++NAME+++++%3A++Sree+Danush+S;++++LOCATION+%3A++Tamil+Nadu%2C+India;++++DEGREE+++%3A++BE+Cyber+Security;++++CGPA++++%3A++8.31+%2F+10;-----------------------------------------------;root%40hellhound%3A~%23+cat+stats.txt;++++INTERNSHIPS++++%3A++5;++++GITHUB+REPOS++%3A++22%2B;++++THM+RANK++++++%3A++Top+1%25+%5B0xE%5D%5BGUARDIAN%5D;++++HACKINGHUB++++%3A++Top+200+All+Time;-----------------------------------------------;root%40hellhound%3A~%23+echo+%24MISSION;++++Building+autonomous+offensive+tools;++++at+the+intersection+of+web+%26+AI." alt="Terminal Animation"/>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=600&color=FF3B3B&center=true&vCenter=true&width=500&lines=%5BLIVE%5D+CyTrack+--+Multi-Agent+Pentesting+%40+CyArt;%5BLIVE%5D+Hellhound+--+Modular+Pentest+Framework;%5BLIVE%5D+x5sentry+--+Autonomous+XSS+Hunter;%5BLIVE%5D+JOE-GOLDBERG+--+OSINT+Investigation+Tool;%5B+%5D+root%40hellhound%3A~%23+_" alt="Active Ops Typing"/>
 </div>
@@ -32,7 +32,7 @@
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=380&lines=%5B%2B%5D+TECHNICAL+ARSENAL" alt="[+] TECHNICAL ARSENAL"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=320&lines=TECHNICAL+ARSENAL" alt="TECHNICAL ARSENAL"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=400&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+ls+%2Fopt%2Ftools%2F;Scanning+arsenal...;%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25+loaded" alt="Arsenal Typing"/>
 
@@ -92,7 +92,7 @@
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=340&lines=%5B%2B%5D+AUTONOMOUS+TOOLS" alt="[+] AUTONOMOUS TOOLS"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=280&lines=AUTONOMOUS+TOOLS" alt="AUTONOMOUS TOOLS"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=1800&pause=400&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+ls+project-hellhound%2F;spider%2F+%7C+pentest%2F+%7C+cmdmap%2F+%7C+joe%2F+%7C+x5sentry%2F;Loading+project+manifest..." alt="Tools Typing"/>
 
@@ -153,7 +153,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=280&lines=%5B%2B%5D+EXPERIENCE" alt="[+] EXPERIENCE"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=220&lines=EXPERIENCE" alt="EXPERIENCE"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+experience.log;5+internships+%7C+Production+security+engineering;Not+side+projects.+Real+targets.+Real+code." alt="Experience Typing"/>
 
@@ -208,7 +208,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=480&lines=%5B%2B%5D+OPEN+SOURCE+CONTRIBUTIONS" alt="[+] OPEN SOURCE CONTRIBUTIONS"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=420&lines=OPEN+SOURCE+CONTRIBUTIONS" alt="OPEN SOURCE CONTRIBUTIONS"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+git+log+--author%3DL4ZZ3RJ0D;2+merged+contributions+in+production;Real+codebases.+Real+impact." alt="Contributions Typing"/>
 
@@ -223,7 +223,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=460&lines=%5B%2B%5D+PROOF+OF+WORK+%2F%2F+CTF+CAMPAIGNS" alt="[+] PROOF OF WORK // CTF CAMPAIGNS"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=400&lines=PROOF+OF+WORK+%2F%2F+CTF+CAMPAIGNS" alt="PROOF OF WORK // CTF CAMPAIGNS"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=1000&color=FF3B3B&center=false&vCenter=true&width=700&lines=root%40hellhound%3A~%23+cat+ctf_results.txt;%5BHACKASTRA+2026%5D+Rank+119+%2F+455+%7C+1250+pts;%5BSECLEAF+Q2+2026%5D+Rank+179+%2F+1050%2B+%7C+3080+pts+%7C+22+Solves;Team+H3LLH0UND+%7C+Web+%7C+Crypto+%7C+OSINT" alt="CTF Typing"/>
 
@@ -238,20 +238,16 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=520&lines=%5B%2B%5D+PLATFORM+RANKINGS+%26+ACTIVE+LABS" alt="[+] PLATFORM RANKINGS & ACTIVE LABS"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=460&lines=PLATFORM+RANKINGS+%26+ACTIVE+LABS" alt="PLATFORM RANKINGS & ACTIVE LABS"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=900&color=FF3B3B&center=false&vCenter=true&width=700&lines=TryHackMe+%5B0xE%5D%5BGUARDIAN%5D+%7C+Top+1%25+%7C+5565+%7C+350%2B+rooms;HackingHub+Top+300+All+Time;PortSwigger+Active+%7C+LLM+Attacks+%7C+Injection+Series;HackSmarter+Labs+%7C+AI+%26+LLM+Security+Focus" alt="Rankings Typing"/>
 
 <div align="center">
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/L4ZZ3RJ0D.png)](https://tryhackme.com/p/L4ZZ3RJ0D)
-
-<br/>
-
 | Platform | Status | Details |
 |:---------|:------:|:--------|
-| [TryHackMe](https://tryhackme.com/p/L4ZZ3RJ0D) | **Top 1% Global** | Rank 5565 — [0xE][GUARDIAN] — 350+ rooms — 38 badges |
-| HackingHub | **Top 300 All Time** | Consistent ranked performance across all categories |
+| [TryHackMe](https://tryhackme.com/p/L4ZZ3RJ0D) | **Top 1% Global** | [0xE][GUARDIAN] — 350+ rooms — 38 badges — Jr. Penetration Tester path completed |
+| HackingHub | **Top 200 All Time** | Consistent ranked performance across all categories |
 | Hack The Box | Active | All Tier 1 Starting Point machines completed |
 | PortSwigger Academy | Active | SQLi, Broken Auth, 2FA Bypass, Advanced Injection, LLM Attacks |
 | AI & LLM Security | Emerging Focus | Web LLM attacks, prompt injection, indirect injection |
@@ -261,7 +257,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=340&lines=%5B%2B%5D+GITHUB+TELEMETRY" alt="[+] GITHUB TELEMETRY"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=280&lines=GITHUB+TELEMETRY" alt="GITHUB TELEMETRY"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+gh+api+%2Fusers%2Fl4zz3rj0d;Fetching+commit+telemetry...;Rendering+contribution+graph..." alt="Telemetry Typing"/>
 
@@ -277,7 +273,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=340&lines=%5B%2B%5D+CERTIFICATIONS" alt="[+] CERTIFICATIONS"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=280&lines=CERTIFICATIONS" alt="CERTIFICATIONS"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+certs.txt;8+certifications+%7C+TryHackMe+%7C+Cisco+%7C+EC-Council;Verified+credentials+loaded." alt="Certs Typing"/>
 
@@ -295,7 +291,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=280&lines=%5B%2B%5D+EDUCATION" alt="[+] EDUCATION"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=220&lines=EDUCATION" alt="EDUCATION"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+education.txt;BE+Cyber+Security+%7C+8.31+CGPA;Mahendra+Engineering+College%2C+Namakkal" alt="Education Typing"/>
 
@@ -310,7 +306,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=FF3B3B&center=false&vCenter=true&width=420&lines=%5B%2B%5D+WRITEUPS+%26+RESEARCH" alt="[+] WRITEUPS & RESEARCH"/></picture>
+## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=360&lines=WRITEUPS+%26+RESEARCH" alt="WRITEUPS & RESEARCH"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=700&color=FF3B3B&center=false&vCenter=true&width=700&lines=root%40hellhound%3A~%23+cat+research%2F*.md+%7C+grep+CVE;HealthGPT+BAC+Research+%7C+Pluck+CMS+4.7.16+RCE;Mustacchio+XXE+%7C+PicoCTF+SSTI1+%7C+Medium+%40l4zz3rj0d" alt="Writeups Typing"/>
 
@@ -325,4 +321,4 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=2000&color=FF3B3B&center=true&vCenter=true&width=700&lines=root%40hellhound%3A~%23+echo+%24MOTTO;Automate+the+boring+attacks.+Perfect+the+creative+ones.;root%40hellhound%3A~%23+exit;Connection+to+hellhound+closed." alt="Footer Typing"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:cc0000,100:0a0000&height=100&section=footer&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,50:8b0000,100:cc0000&height=120&section=footer&reversal=false"/>
