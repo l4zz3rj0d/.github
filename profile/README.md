@@ -1,4 +1,10 @@
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,50:1a0000,100:cc0000&height=180&text=L4ZZ3RJ0D&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Sree+Danush+S+%7C+Offensive+Security+Engineer+%7C+Tool+Builder&descAlignY=75&descSize=16&descColor=cccccc"/>
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=52&duration=2000&pause=2000&color=FF3B3B&center=true&vCenter=true&width=600&height=80&lines=L4ZZ3RJ0D;SREEDANUSH;L4ZZ3RJ0D" alt="Name Switch"/>
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Offensive+Security+Engineer;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25+%7C+%5B0xE%5D%5BGUARDIAN%5D+%7C+350%2B+Rooms;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
@@ -46,9 +52,6 @@
 ![SQLMap](https://img.shields.io/badge/SQLMAP-8B0000?style=flat-square&logo=databricks&logoColor=white)
 ![Hydra](https://img.shields.io/badge/HYDRA-990000?style=flat-square&logo=gnu&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/GHIDRA-FF0000?style=flat-square&logo=redhat&logoColor=white)
-![Autopsy](https://img.shields.io/badge/AUTOPSY-333333?style=flat-square&logo=linux&logoColor=white)
-![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Hellhound](https://img.shields.io/badge/HELLHOUND_FRAMEWORK-FF3B3B?style=flat-square&logo=github&logoColor=white)
 
 **[ WEB SECURITY AREAS ]**
@@ -71,12 +74,13 @@
 
 **[ PLATFORMS & LABS ]**
 
-![Kali](https://img.shields.io/badge/KALI_LINUX-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![THM](https://img.shields.io/badge/TRYHACKME-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-![HTB](https://img.shields.io/badge/HACK_THE_BOX-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
-![PortSwigger](https://img.shields.io/badge/PORTSWIGGER_ACADEMY-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Android](https://img.shields.io/badge/ANDROID_PENTESTING_DIVA-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Bugcrowd](https://img.shields.io/badge/BUGCROWD_BUG_BOUNTY-F26822?style=flat-square&logo=bugcrowd&logoColor=white)
+[![TryHackMe](https://img.shields.io/badge/TRYHACKME-Top_1%25_Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/L4ZZ3RJ0D)
+[![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-Active-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com)
+[![PortSwigger](https://img.shields.io/badge/PORTSWIGGER_ACADEMY-Active-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security)
+[![HackingHub](https://img.shields.io/badge/HACKINGHUB-Top_200_All_Time-8B0000?style=for-the-badge&logo=target&logoColor=white)](https://hackinghub.io)
+[![HackSmarter](https://img.shields.io/badge/HACKSMARTER-Active-cc0000?style=for-the-badge&logo=shield&logoColor=white)](https://hacksmarter.org)
+[![SyncLab](https://img.shields.io/badge/SYNCLAB-Active-1a1a2e?style=for-the-badge&logo=flask&logoColor=ff3b3b)](https://synclab.io)
+[![Bugcrowd](https://img.shields.io/badge/BUGCROWD-Bug_Bounty-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
 
 **[ BUILD STACK ]**
 
@@ -246,7 +250,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 | Platform | Status | Details |
 |:---------|:------:|:--------|
-| [TryHackMe](https://tryhackme.com/p/L4ZZ3RJ0D) | **Top 1% Global** | [0xE][GUARDIAN] — 350+ rooms — 38 badges — Jr. Penetration Tester path completed |
+| [TryHackMe](https://tryhackme.com/p/L4ZZ3RJ0D) | **Top 1% Global** | 350+ rooms — 38 badges — Jr. Penetration Tester path completed |
 | HackingHub | **Top 200 All Time** | Consistent ranked performance across all categories |
 | Hack The Box | Active | All Tier 1 Starting Point machines completed |
 | PortSwigger Academy | Active | SQLi, Broken Auth, 2FA Bypass, Advanced Injection, LLM Attacks |
