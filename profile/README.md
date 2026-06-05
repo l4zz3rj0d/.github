@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0000,50:1a0000,100:cc0000&height=180&text=L4ZZ3RJ0D&fontSize=70&fontColor=ffffff&fontAlignY=55&desc=Sree+Danush+S+%7C+Offensive+Security+Engineer+%7C+Tool+Builder&descAlignY=75&descSize=16&descColor=cccccc"/>
+<img width="100%" src="https://raw.githubusercontent.com/l4zz3rj0d/l4zz3rj0d/main/banner.svg" alt="L4ZZ3RJ0D — Sree Danush S | Offensive Security Engineer | Tool Builder"/>
 </div>
 
 <div align="center">
