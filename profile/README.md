@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/l4zz3rj0d/l4zz3rj0d/main/banner.svg" alt="L4ZZ3RJ0D — Sree Danush S | Offensive Security Engineer | Tool Builder"/>
+<img width="100%" src="https://raw.githubusercontent.com/l4zz3rj0d/.github/profile/banner.svg" alt="L4ZZ3RJ0D — Sree Danush S | Offensive Security Engineer | Tool Builder"/>
 </div>
 
 <div align="center">
