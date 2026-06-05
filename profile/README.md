@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=52&duration=2000&pause=2000&color=FF3B3B&center=true&vCenter=true&width=600&height=80&lines=L4ZZ3RJ0D;SREEDANUSH;L4ZZ3RJ0D" alt="Name Switch"/>
-</div>
-
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Offensive+Security+Engineer;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25+%7C+%5B0xE%5D%5BGUARDIAN%5D+%7C+350%2B+Rooms;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
 <br/>
 
@@ -82,15 +78,6 @@
 [![SyncLab](https://img.shields.io/badge/SYNCLAB-Active-1a1a2e?style=for-the-badge&logo=flask&logoColor=ff3b3b)](https://synclab.io)
 [![Bugcrowd](https://img.shields.io/badge/BUGCROWD-Bug_Bounty-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
 
-**[ BUILD STACK ]**
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/BASH-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Electron](https://img.shields.io/badge/ELECTRON-47848F?style=flat-square&logo=electron&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Playwright](https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -267,7 +254,7 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=l4zz3rj0d&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=FF3B3B&fire=CC0000&currStreakLabel=FF3B3B&sideLabels=ff6666&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=l4zz3rj0d&theme=tokyonight&hide_border=true&background=0D1117&ring=FF3B3B&fire=CC0000&currStreakLabel=FF3B3B&sideLabels=ff6666&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 
 <br/><br/>
 
