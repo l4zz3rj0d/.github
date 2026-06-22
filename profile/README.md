@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Offensive+Security+Engineer;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25+%7C+%5B0xE%5D%5BGUARDIAN%5D+%7C+350%2B+Rooms;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Offensive+Security+Engineer;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25;HackingHUB+Top+150;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=l4zz3rj0d&color=ff3b3b&style=flat-square&label=INTRUSIONS+LOGGED)](https://github.com/l4zz3rj0d)
@@ -131,72 +131,6 @@ OSINT investigation tool named after the obsessive character from YOU. Gathers p
 
 </details>
 
-<details>
-<summary><b>» <a href="https://github.com/project-hellhound-org/x5sentry">x5sentry</a> — Autonomous XSS Hunter &amp; Exploit Builder <code>[ACTIVE]</code></b></summary>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Injecting+XSS+payload...;DOM+analysis+running...;Blind+XSS+callback+received." alt="x5sentry Typing"/>
-
-> `Python` `Playwright` `DOM Analysis` `mXSS` `uXSS` `Blind XSS` `Headless Injection`
-
-Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detection via headless Playwright injection engine. Advanced scanning mechanics merged into project-hellhound org (2026-05-15).
-
-</details>
-
----
-
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=220&lines=EXPERIENCE" alt="EXPERIENCE"/></picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+experience.log;5+internships+%7C+Production+security+engineering;Not+side+projects.+Real+targets.+Real+code." alt="Experience Typing"/>
-
-<details>
-<summary><b>» CyArt &nbsp;·&nbsp; VAPT Intern &nbsp;·&nbsp; CyTrack Platform &nbsp;·&nbsp; Dec 2025 – Present &nbsp;·&nbsp; Remote</b></summary>
-<br/>
-
-> `Python` `Multi-Agent Architecture` `SQLi` `NoSQLi` `CMDi` `BAC` `Autonomous Agents`
-
-- Contribute across multiple agent layers in **CyTrack** — a 6-agent autonomous web pentesting platform running against real targets in production
-- Build production-grade Python agents each scoped to a distinct vulnerability class: SQLi GET/POST, NoSQLi (MongoDB), CMDi Linux/Windows, BAC detection
-- Authored multi-agent orchestration layer (merged 2026-05-10) coordinating independent offensive scanners across complex web routing structures
-- Real engineering team: code review, merge gates, live deployment of security tooling
-
-</details>
-
-<details>
-<summary><b>» Cyber Secured India &nbsp;·&nbsp; Hardware Hacking Intern &nbsp;·&nbsp; Sep 2025 – Nov 2025 &nbsp;·&nbsp; Remote</b></summary>
-<br/>
-
-> `ESP32` `ESP8266` `Deauth Attacks` `Evil Twin AP` `IoT Security` `RF Attack Surface`
-
-- Performed deauthentication attacks and Evil Twin AP setups using ESP32 and ESP8266
-- Studied IoT device attack surfaces, wireless network vulnerability concepts, RF-based attack methodologies
-- Foundational hardware-level offensive security beyond purely software attack vectors
-
-</details>
-
-<details>
-<summary><b>» Cyber Secured India &nbsp;·&nbsp; Cybersecurity & Digital Forensic Intern &nbsp;·&nbsp; Apr 2025 – Jun 2025 &nbsp;·&nbsp; Remote</b></summary>
-<br/>
-
-> `Web App Security` `Digital Forensics` `PortSwigger Labs` `SQLi` `Broken Auth` `2FA Bypass` `DIVA`
-
-- Completed 10+ PortSwigger Web Security Academy labs: SQLi, Broken Auth, 2FA bypass, enumeration
-- Exploited VulnHub machine — Pluck CMS 4.7.16 RCE — published full technical writeup on Medium
-- Studied Android application security using DIVA
-
-</details>
-
-<details>
-<summary><b>» Pondicherry Cyber Crime Department &nbsp;·&nbsp; Cybersecurity Intern &nbsp;·&nbsp; Jan 2025 &nbsp;·&nbsp; Pondicherry</b></summary>
-<br/>
-
-> `Digital Forensics` `Evidence Handling` `HID Injection` `Raspberry Pi Pico` `Rubber Ducky`
-
-- Observed live cybercrime investigations inside a government law enforcement department
-- Hands-on understanding of digital evidence handling, chain-of-custody, law enforcement protocols
-- Built a functional **Raspberry Pi Pico Rubber Ducky** — HID keystroke injection device for pentest research
-
-</details>
-
 ---
 
 ## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=420&lines=OPEN+SOURCE+CONTRIBUTIONS" alt="OPEN SOURCE CONTRIBUTIONS"/></picture>
@@ -237,8 +171,8 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 
 | Platform | Status | Details |
 |:---------|:------:|:--------|
-| [TryHackMe](https://tryhackme.com/p/L4ZZ3RJ0D) | **Top 1% Global** | 350+ rooms — 38 badges — Jr. Penetration Tester path completed |
-| HackingHub | **Top 200 All Time** | Consistent ranked performance across all categories |
+| [TryHackMe](https://tryhackme.com/p/L4ZZ3RJ0D) | **Top 1% Global** | Jr. Penetration Tester path completed |
+| HackingHub | **Top 150 All Time** | Consistent ranked performance across all categories |
 | Hack The Box | Active | All Tier 1 Starting Point machines completed |
 | PortSwigger Academy | Active | SQLi, Broken Auth, 2FA Bypass, Advanced Injection, LLM Attacks |
 | AI & LLM Security | Emerging Focus | Web LLM attacks, prompt injection, indirect injection |
@@ -259,39 +193,6 @@ Autonomous XSS Hunter and Exploit Builder. DOM, mXSS, uXSS, and Blind XSS detect
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=l4zz3rj0d&theme=tokyo-night&bg_color=0d1117&color=ff3b3b&line=cc0000&point=ff6666&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
----
-
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=280&lines=CERTIFICATIONS" alt="CERTIFICATIONS"/></picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+certs.txt;8+certifications+%7C+TryHackMe+%7C+Cisco+%7C+EC-Council;Verified+credentials+loaded." alt="Certs Typing"/>
-
-<div align="center">
-
-| Certification | Issuer | Verify |
-|:--------------|:-------|:------:|
-| Jr. Penetration Tester | TryHackMe | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-O59FSUN5EB.pdf) |
-| Web Application Pentesting | TryHackMe | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-OYCBQIXUDM.pdf) |
-| Hands-on Pentesting with Metasploit | Infosys Springboard | [View](https://drive.google.com/file/d/1vTxTJONank6EKcmtlcUHGMt2x5A4WreI) |
-| CCEP — Certified Cybersecurity Educator Professional | Red Team Leaders | [View](https://drive.google.com/file/d/1KMDAmhTNo8vxImXOY7HgVvcG8qAGA4_F) |
-| Cisco Ethical Hacker | Cisco | [View](https://drive.google.com/file/d/17AeBj7gnI9NYn1ks2VJdGeIW1MsOBcYi) |
-
-</div>
-
----
-
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=220&lines=EDUCATION" alt="EDUCATION"/></picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+cat+education.txt;BE+Cyber+Security+%7C+8.31+CGPA;Mahendra+Engineering+College%2C+Namakkal" alt="Education Typing"/>
-
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| BE — Cyber Security | Mahendra Engineering College, Namakkal | 2022 - Present | **8.31 / 10** |
-| HSC — Computer Science | SVN Matric Higher Secondary School, Erode | 2021 - 2022 | **88.7%** |
 
 </div>
 
