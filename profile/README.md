@@ -150,7 +150,7 @@ OSINT investigation tool named after the obsessive character from YOU. Gathers p
 
 ## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=400&lines=PROOF+OF+WORK+%2F%2F+CTF+CAMPAIGNS" alt="PROOF OF WORK // CTF CAMPAIGNS"/></picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=1000&color=FF3B3B&center=false&vCenter=true&width=700&lines=root%40hellhound%3A~%23+cat+ctf_results.txt;%5BHTB+CTF+Try+Out%5D+Rank+46+%7C+34126+pts+%7C+36%2F37+Solves;%5BDalCTF+2026%5D+Rank+73+%2F+327+%7C+2168+pts+%7C+14+Solves;%5BRIFFHACK%5D+Rank+79+%7C+3085+pts;Team+H3LLH0UND+%7C+Web+%7C+Rev+%7C+Pwn" alt="CTF Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=1000&color=FF3B3B&center=false&vCenter=true&width=700&lines=root%40hellhound%3A~%23+cat+ctf_results.txt;%5BHTB+CTF+Try+Out%5D+Rank+46+%7C+34126+pts+%7C+36%2F37+Solves;%5BDalCTF+2026%5D+Rank+73+%2F+327+%7C+2168+pts+%7C+14+Solves;%5BRIFFHACK%5D+Rank+79+%7C+3085+pts;Team+H3LLH0UND" alt="CTF Typing"/>
 
 <div align="center">
 
