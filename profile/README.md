@@ -150,16 +150,21 @@ OSINT investigation tool named after the obsessive character from YOU. Gathers p
 
 ## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=400&lines=PROOF+OF+WORK+%2F%2F+CTF+CAMPAIGNS" alt="PROOF OF WORK // CTF CAMPAIGNS"/></picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=1000&color=FF3B3B&center=false&vCenter=true&width=700&lines=root%40hellhound%3A~%23+cat+ctf_results.txt;%5BHACKASTRA+2026%5D+Rank+119+%2F+455+%7C+1250+pts;%5BSECLEAF+Q2+2026%5D+Rank+179+%2F+1050%2B+%7C+3080+pts+%7C+22+Solves;Team+H3LLH0UND+%7C+Web+%7C+Crypto+%7C+OSINT" alt="CTF Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=1000&color=FF3B3B&center=false&vCenter=true&width=700&lines=root%40hellhound%3A~%23+cat+ctf_results.txt;%5BHTB+CTF+Try+Out%5D+Rank+46+%7C+34126+pts+%7C+36%2F37+Solves;%5BDalCTF+2026%5D+Rank+73+%2F+327+%7C+2168+pts+%7C+14+Solves;%5BRIFFHACK%5D+Rank+79+%7C+3085+pts;Team+H3LLH0UND+%7C+Web+%7C+Rev+%7C+Pwn" alt="CTF Typing"/>
 
 <div align="center">
 
 | Event | Team | Rank | Score | Categories |
 |:------|:----:|:----:|:-----:|:-----------|
+| [HTB CTF Try Out](https://ctf.hackthebox.com/event/1434/scoreboard) | H3LLH0UND | **46** | 34126 pts / 36 Solves | REV, PWN, WEB, FOR |
+| [DalCTF 2026](https://ctftime.org/team/437171) | H3LLH0UND | **73 / 327** | 2168 pts / 14 Solves | GeoSINT, PWN, FOR, MISC, REV |
+| [RIFFHACK: Black Market Break-In](https://riffhack.biterra.co/scoreboard) | H3LLH0UND | **79** | 3085 pts | REV, FOR, WEB, PWN |
 | [HackAstra CTF Qualifiers 2026](https://drive.google.com/file/d/1qHZYEr_-Q-sL1edi3AHfaRv5K7OncmZ-/view?usp=sharing) | H3LLH0UND | **119 / 455** | 1250 pts | Web, Crypto, OSINT |
-| [SecLeaf Q2 CTF 2026](https://drive.google.com/file/d/1N_Ve0VU3lR6TTnUw5rHlcxfbn2CPnEiS/view?usp=sharing) | H3LLH0UND | **179 / 1050+** | 3080 pts / 22 Solves | Web Exploitation, Crypto, OSINT |
+| [Anti-Slop CTF](https://ctftime.org/event/3272) | H3LLH0UND | **141 / 380** | GeoGuesser Focus | OSINT, PWN, MISC |
+| [SecLeaf Q2 CTF 2026](https://drive.google.com/file/d/1N_Ve0VU3lR6TTnUw5rHlcxfbn2CPnEiS/view?usp=sharing) | H3LLH0UND | **179 / 1050+** | 3080 pts / 22 Solves | Web, Crypto, OSINT |
 
 </div>
+
 
 ---
 
