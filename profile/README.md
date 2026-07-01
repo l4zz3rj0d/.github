@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Offensive+Security+Engineer;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25;HackingHUB+Top+150;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Offensive+Security+Engineer;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25;HackingHUB+Top+100;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=l4zz3rj0d&color=ff3b3b&style=flat-square&label=INTRUSIONS+LOGGED)](https://github.com/l4zz3rj0d)
@@ -21,7 +21,7 @@
 ## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=280&lines=OPERATOR+PROFILE" alt="OPERATOR PROFILE"/></picture>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1800&pause=200&color=FF3B3B&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=340&lines=root%40hellhound%3A~%23+whoami;-----------------------------------------------;++++HANDLE++++%3A++L4ZZ3RJ0D;++++NAME+++++%3A++Sree+Danush+S;++++LOCATION+%3A++Tamil+Nadu%2C+India;++++DEGREE+++%3A++BE+Cyber+Security;-----------------------------------------------;root%40hellhound%3A~%23+cat+stats.txt;++++INTERNSHIPS++++%3A++5;++++GITHUB+REPOS++%3A++22%2B;++++THM+RANK++++++%3A++Top+1%25+%5B0xE%5D%5BGUARDIAN%5D;++++HACKINGHUB++++%3A++Top+200+All+Time;-----------------------------------------------;root%40hellhound%3A~%23+echo+%24MISSION;++++Building+autonomous+offensive+tools;++++at+the+intersection+of+web+%26+AI." alt="Terminal Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1800&pause=200&color=FF3B3B&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=340&lines=root%40hellhound%3A~%23+whoami;-----------------------------------------------;++++HANDLE++++%3A++L4ZZ3RJ0D;++++NAME+++++%3A++Sree+Danush+S;++++LOCATION+%3A++Tamil+Nadu%2C+India;++++DEGREE+++%3A++BE+Cyber+Security;-----------------------------------------------;root%40hellhound%3A~%23+cat+stats.txt;++++INTERNSHIPS++++%3A++5;++++GITHUB+REPOS++%3A++22%2B;++++THM+RANK++++++%3A++Top+1%25+%5B0xE%5D%5BGUARDIAN%5D;++++HACKINGHUB++++%3A++Top+100+All+Time;-----------------------------------------------;root%40hellhound%3A~%23+echo+%24MISSION;++++Building+autonomous+offensive+tools;++++at+the+intersection+of+web+%26+AI." alt="Terminal Animation"/>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=600&color=FF3B3B&center=true&vCenter=true&width=500&lines=%5BLIVE%5D+CyTrack+--+Multi-Agent+Pentesting+%40+CyArt;%5BLIVE%5D+Hellhound+--+Modular+Pentest+Framework;%5BLIVE%5D+x5sentry+--+Autonomous+XSS+Hunter;%5BLIVE%5D+JOE-GOLDBERG+--+OSINT+Investigation+Tool;%5B+%5D+root%40hellhound%3A~%23+_" alt="Active Ops Typing"/>
 </div>
@@ -73,7 +73,7 @@
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-Top_1%25_Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/L4ZZ3RJ0D)
 [![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-Active-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com)
 [![PortSwigger](https://img.shields.io/badge/PORTSWIGGER_ACADEMY-Active-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security)
-[![HackingHub](https://img.shields.io/badge/HACKINGHUB-Top_200_All_Time-8B0000?style=for-the-badge&logo=target&logoColor=white)](https://hackinghub.io)
+[![HackingHub](https://img.shields.io/badge/HACKINGHUB-Top_100_All_Time-8B0000?style=for-the-badge&logo=target&logoColor=white)](https://hackinghub.io)
 [![HackSmarter](https://img.shields.io/badge/HACKSMARTER-Active-cc0000?style=for-the-badge&logo=shield&logoColor=white)](https://hacksmarter.org)
 [![SyncLab](https://img.shields.io/badge/SYNCLAB-Active-1a1a2e?style=for-the-badge&logo=flask&logoColor=ff3b3b)](https://synclab.io)
 [![Bugcrowd](https://img.shields.io/badge/BUGCROWD-Bug_Bounty-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
@@ -170,14 +170,14 @@ OSINT investigation tool named after the obsessive character from YOU. Gathers p
 
 ## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=460&lines=PLATFORM+RANKINGS+%26+ACTIVE+LABS" alt="PLATFORM RANKINGS & ACTIVE LABS"/></picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=900&color=FF3B3B&center=false&vCenter=true&width=700&lines=TryHackMe+%5B0xE%5D%5BGUARDIAN%5D+%7C+Top+1%25+%7C+5565+%7C+350%2B+rooms;HackingHub+Top+300+All+Time;PortSwigger+Active+%7C+LLM+Attacks+%7C+Injection+Series;HackSmarter+Labs+%7C+AI+%26+LLM+Security+Focus" alt="Rankings Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=900&color=FF3B3B&center=false&vCenter=true&width=700&lines=TryHackMe+%5B0xE%5D%5BGUARDIAN%5D+%7C+Top+1%25+%7C+5565+%7C+350%2B+rooms;HackingHub+Top+100+All+Time;PortSwigger+Active+%7C+LLM+Attacks+%7C+Injection+Series;HackSmarter+Labs+%7C+AI+%26+LLM+Security+Focus" alt="Rankings Typing"/>
 
 <div align="center">
 
 | Platform | Status | Details |
 |:---------|:------:|:--------|
 | [TryHackMe](https://tryhackme.com/p/L4ZZ3RJ0D) | **Top 1% Global** | Jr. Penetration Tester path completed |
-| HackingHub | **Top 150 All Time** | Consistent ranked performance across all categories |
+| HackingHub | **Top 100 All Time** | Consistent ranked performance across all categories |
 | Hack The Box | Active | All Tier 1 Starting Point machines completed |
 | PortSwigger Academy | Active | SQLi, Broken Auth, 2FA Bypass, Advanced Injection, LLM Attacks |
 | AI & LLM Security | Emerging Focus | Web LLM attacks, prompt injection, indirect injection |
