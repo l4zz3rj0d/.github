@@ -148,45 +148,6 @@ OSINT investigation tool named after the obsessive character from YOU. Gathers p
 
 ---
 
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=400&lines=PROOF+OF+WORK+%2F%2F+CTF+CAMPAIGNS" alt="PROOF OF WORK // CTF CAMPAIGNS"/></picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=1000&color=FF3B3B&center=false&vCenter=true&width=700&lines=root%40hellhound%3A~%23+cat+ctf_results.txt;%5BHTB+CTF+Try+Out%5D+Rank+46+%7C+34126+pts+%7C+36%2F37+Solves;%5BDalCTF+2026%5D+Rank+73+%2F+327+%7C+2168+pts+%7C+14+Solves;%5BRIFFHACK%5D+Rank+79+%7C+3085+pts;Team+H3LLH0UND" alt="CTF Typing"/>
-
-<div align="center">
-
-| Event | Team | Rank | Score | Categories |
-|:------|:----:|:----:|:-----:|:-----------|
-| [HTB CTF Try Out](https://ctf.hackthebox.com/event/1434/scoreboard) | H3LLH0UND | **46** | 34126 pts / 36 Solves | REV, PWN, WEB, FOR |
-| [DalCTF 2026](https://ctftime.org/team/437171) | H3LLH0UND | **73 / 327** | 2168 pts / 14 Solves | GeoSINT, PWN, FOR, MISC, REV |
-| [RIFFHACK: Black Market Break-In](https://riffhack.biterra.co/scoreboard) | H3LLH0UND | **79** | 3085 pts | REV, FOR, WEB, PWN |
-| [HackAstra CTF Qualifiers 2026](https://drive.google.com/file/d/1qHZYEr_-Q-sL1edi3AHfaRv5K7OncmZ-/view?usp=sharing) | H3LLH0UND | **119 / 455** | 1250 pts | Web, Crypto, OSINT |
-| [Anti-Slop CTF](https://ctftime.org/event/3272) | H3LLH0UND | **141 / 380** | GeoGuesser Focus | OSINT, PWN, MISC |
-| [SecLeaf Q2 CTF 2026](https://drive.google.com/file/d/1N_Ve0VU3lR6TTnUw5rHlcxfbn2CPnEiS/view?usp=sharing) | H3LLH0UND | **179 / 1050+** | 3080 pts / 22 Solves | Web, Crypto, OSINT |
-
-</div>
-
-
----
-
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=460&lines=PLATFORM+RANKINGS+%26+ACTIVE+LABS" alt="PLATFORM RANKINGS & ACTIVE LABS"/></picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=900&color=FF3B3B&center=false&vCenter=true&width=700&lines=TryHackMe+%5B0xE%5D%5BGUARDIAN%5D+%7C+Top+1%25+%7C+5565+%7C+350%2B+rooms;HackingHub+Top+100+All+Time;PortSwigger+Active+%7C+LLM+Attacks+%7C+Injection+Series;HackSmarter+Labs+%7C+AI+%26+LLM+Security+Focus" alt="Rankings Typing"/>
-
-<div align="center">
-
-| Platform | Status | Details |
-|:---------|:------:|:--------|
-| [TryHackMe](https://tryhackme.com/p/L4ZZ3RJ0D) | **Top 1% Global** | Jr. Penetration Tester path completed |
-| HackingHub | **Top 100 All Time** | Consistent ranked performance across all categories |
-| Hack The Box | Active | All Tier 1 Starting Point machines completed |
-| PortSwigger Academy | Active | SQLi, Broken Auth, 2FA Bypass, Advanced Injection, LLM Attacks |
-| AI & LLM Security | Emerging Focus | Web LLM attacks, prompt injection, indirect injection |
-| HackSmarter Labs | Active | Offensive security skill development |
-
-</div>
-
----
-
 ## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=280&lines=GITHUB+TELEMETRY" alt="GITHUB TELEMETRY"/></picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2000&pause=500&color=FF3B3B&center=false&vCenter=true&width=600&lines=root%40hellhound%3A~%23+gh+api+%2Fusers%2Fl4zz3rj0d;Fetching+commit+telemetry...;Rendering+contribution+graph..." alt="Telemetry Typing"/>
@@ -200,17 +161,6 @@ OSINT investigation tool named after the obsessive character from YOU. Gathers p
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=l4zz3rj0d&theme=tokyo-night&bg_color=0d1117&color=ff3b3b&line=cc0000&point=ff6666&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
-
----
-
-## <picture><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=99999&color=ffffff&center=false&vCenter=true&width=360&lines=WRITEUPS+%26+RESEARCH" alt="WRITEUPS & RESEARCH"/></picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2200&pause=700&color=FF3B3B&center=false&vCenter=true&width=700&lines=root%40hellhound%3A~%23+cat+research%2F*.md+%7C+grep+CVE;HealthGPT+BAC+Research+%7C+Pluck+CMS+4.7.16+RCE;Mustacchio+XXE+%7C+PicoCTF+SSTI1+%7C+Medium+%40l4zz3rj0d" alt="Writeups Typing"/>
-
-- [HealthGPT: When "Access Denied" Accidentally Leaked Everything](https://medium.com/@l4zz3rj0d/healthgpt-when-access-denied-accidentally-leaked-everything-7d386e89f052)
-- [Pluck CMS 4.7.16 — Remote Code Execution Exploit](https://medium.com/@l4zz3rj0d/pluck-cms-4-7-16-exploit-walkthrough-999df429c306)
-- [Mustacchio — TryHackMe XXE Walkthrough](https://medium.com/@l4zz3rj0d/summary-15e9cd1b387f)
-- [PicoCTF SSTI1 — Server-Side Template Injection](https://medium.com/@l4zz3rj0d/picoctf-ssdi1-server-side-template-injection-writeup-6bb27fb335f0)
 
 ---
 
