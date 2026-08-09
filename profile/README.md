@@ -1,9 +1,9 @@
 <div align="center">
-<img width="100%" src="https://github.com/l4zz3rj0d/.github/blob/main/profile/banner.svg" alt="L4ZZ3RJ0D — Sree Danush S | Offensive Security Engineer | Tool Builder"/>
+<img width="100%" src="https://github.com/l4zz3rj0d/.github/blob/main/profile/banner.svg" alt="L4ZZ3RJ0D — Sree Danush S | Security Reseacher | Tool Builder"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Offensive+Security+Engineer;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25;HackingHUB+Top+100;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Security+Reseacher;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25;HackingHUB+Top+100;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=l4zz3rj0d&color=ff3b3b&style=flat-square&label=INTRUSIONS+LOGGED)](https://github.com/l4zz3rj0d)
