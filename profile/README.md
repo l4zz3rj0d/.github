@@ -139,10 +139,10 @@ OSINT investigation tool named after the obsessive character from YOU. Gathers p
 
 <div align="center">
 
-| Repository | Contribution | Merged |
-|:-----------|:-------------|:------:|
-| [project-hellhound/x5sentry](https://github.com/project-hellhound-org/x5sentry) | Advanced scanning mechanics — DOM, mXSS, uXSS, Blind XSS detection payloads via headless Playwright injection | 2026-05-15 |
-| [cyart/cytrack](https://github.com/l4zz3rj0d) | Multi-agent orchestration layer coordinating independent offensive scanners across complex web routing structures | 2026-05-10 |
+| Repository | Contribution | 
+|:-----------|:-------------|
+| [project-hellhound/x5sentry](https://github.com/project-hellhound-org/x5sentry) | Advanced scanning mechanics — DOM, mXSS, uXSS, Blind XSS detection payloads via headless Playwright injection |
+| [cyart/cytrack](https://github.com/l4zz3rj0d) | Multi-agent orchestration layer coordinating independent offensive scanners across complex web routing structures |
 
 </div>
 
