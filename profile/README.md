@@ -99,13 +99,13 @@ Async web crawler engineered for security testing. Maps endpoints, parameters, a
 </details>
 
 <details>
-<summary><b>» <a href="https://github.com/project-hellhound-org/Hellhound-Pentest">Hellhound Framework</a> — Modular Pentest Platform <code>[IN DEV]</code></b></summary>
+<summary><b>» <a href="https://github.com/project-hellhound-org/Hellhound-Pentest">Hellhound</a> — Bounty Hunter <code>[IN DEV]</code></b></summary>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Loading+Hellhound+core...;AI+engine+online.;Apex-King+HUD+ready." alt="Framework Typing"/>
 
 > `Python` `Electron` `Ollama` `Playwright` `Multi-Agent` `Cytoscape.js` `Kill-Chain`
 
-High-fidelity security framework for professional web application assessments. Intelligent AI core for automated attack-chain correlation and context-aware verification. Apex-King HUD (Electron GUI) with Cytoscape.js attack graph, dual-engine architecture, kill-chain tracker, session export, and local Ollama AI chatbox. Agents for CMDi (v5.5), SQLi, NoSQLi, IDOR, and XSS.
+Hellhound is an autonomous reconnaissance and finding triage assistant built for bug bounty hunters and security researchers. It automates repetitive enumeration workflows, verifies asset validity, checks for dangling DNS takeover vectors, and extracts endpoints—all governed by strict, code-level engagement scope boundaries.
 
 </details>
 
