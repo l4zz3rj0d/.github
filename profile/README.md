@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Security+Reseacher;Building+Autonomous+Pentesting+Agents+%40+CyArt;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25;HackingHUB+Top+100;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=l4zz3rj0d&color=ff3b3b&style=flat-square&label=INTRUSIONS+LOGGED)](https://github.com/l4zz3rj0d)
+[![Profile Views](https://komarev.com/ghpvc/?username=l4zz3rj0d&color=ff3b3b&style=flat-square&label=PROFILE+VISITERS)](https://github.com/l4zz3rj0d)
 [![GitHub](https://img.shields.io/badge/GITHUB-l4zz3rj0d-ff3b3b?style=flat-square&logo=github&logoColor=white)](https://github.com/l4zz3rj0d)
 [![Org](https://img.shields.io/badge/ORG-project--hellhound-cc0000?style=flat-square&logo=github&logoColor=white)](https://github.com/project-hellhound-org)
 [![Medium](https://img.shields.io/badge/WRITEUPS-%40l4zz3rj0d-cc0000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@l4zz3rj0d/)
