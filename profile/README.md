@@ -99,7 +99,7 @@ Async web crawler engineered for security testing. Maps endpoints, parameters, a
 </details>
 
 <details>
-<summary><b>» <a href="https://github.com/project-hellhound-org/Hellhound-Pentest">Hellhound</a> — Bounty Hunter <code>[IN DEV]</code></b></summary>
+<summary><b>» <a href="https://github.com/project-hellhound-org/Hellhound-Pentest">Hellhound Bounty Hunter</a> — Bounty Hunter <code>[IN DEV]</code></b></summary>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Loading+Hellhound+core...;AI+engine+online.;Apex-King+HUD+ready." alt="Framework Typing"/>
 
