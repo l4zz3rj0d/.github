@@ -92,7 +92,6 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Initializing+spider+module...;Headless+browser+ready.;Crawling+target+surface..." alt="Spider Typing"/>
 
-> `Python` `Playwright` `Async Crawling` `SPA Support` `Headless Browser` `Endpoint Mapping`
 
 Async web crawler engineered for security testing. Maps endpoints, parameters, and security issues across traditional and SPA web applications. v12.0 with three-phase SPA interaction, XHR capture, POST body harvesting, JS endpoint analysis, networkidle wait, subdomain enumeration, and cloud asset probing.
 
@@ -103,7 +102,6 @@ Async web crawler engineered for security testing. Maps endpoints, parameters, a
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Loading+Hellhound+core...;AI+engine+online.;Apex-King+HUD+ready." alt="Framework Typing"/>
 
-> `Python` `Electron` `Ollama` `Playwright` `Multi-Agent` `Cytoscape.js` `Kill-Chain`
 
 Hellhound is an autonomous reconnaissance and finding triage assistant built for bug bounty hunters and security researchers. It automates repetitive enumeration workflows, verifies asset validity, checks for dangling DNS takeover vectors, and extracts endpoints—all governed by strict, code-level engagement scope boundaries.
 
@@ -114,20 +112,17 @@ Hellhound is an autonomous reconnaissance and finding triage assistant built for
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Scanning+injection+vectors...;OS+fingerprint+detected.;Tier+1+payload+deployed." alt="CMDmap Typing"/>
 
-> `Python` `Bash` `WAF Detection` `OS Fingerprinting` `5-Tier Engine` `Blind CMDi` `OOB` `PoC Generation`
 
 Autonomous command injection detector with SPA-aware crawler and 5-tier injection engine that auto-escalates from direct output through timing-based blind detection to OOB callbacks. Every finding verified, timestamped, and delivered with a ready-to-run curl PoC.
 
 </details>
 
 <details>
-<summary><b>» <a href="https://github.com/project-hellhound-org/JOE-GOLDBERG">JOE-GOLDBERG</a> — OSINT Investigation Tool <code>[IN DEV]</code></b></summary>
+<summary><b>» <a href="https://github.com/project-hellhound-org/JOE-GOLDBERG">JOE-GOLDBERG</a> — Personal Assitant<code>[private]</code></b></summary>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Joe+is+watching...;Connecting+the+dots...;Case+file+created." alt="Joe Typing"/>
 
-> `Python` `PyWebView` `Gemini 2.5 Flash` `OSINT` `Zero API Keys` `Case Files`
-
-OSINT investigation tool named after the obsessive character from YOU. Gathers publicly available information, connects the dots, narrates findings in his voice. No API keys for recon. No data leaving your machine. Case files as JSON and HTML, callable system-wide as `joe`.
+A Jarvis like personal assistant built for personal helps like fixing issue around project and personal help assitant.
 
 </details>
 
