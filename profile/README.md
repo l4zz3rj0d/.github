@@ -118,7 +118,7 @@ Autonomous command injection detector with SPA-aware crawler and 5-tier injectio
 </details>
 
 <details>
-<summary><b>» <a href="https://github.com/project-hellhound-org/JOE-GOLDBERG">JOE-GOLDBERG</a> — Personal Assitant<code>[private]</code></b></summary>
+<summary><b>» <a href="https://github.com/project-hellhound-org/JOE-GOLDBERG">Soldier-Boy</a> — Personal Assitant<code>[private]</code></b></summary>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Joe+is+watching...;Connecting+the+dots...;Case+file+created." alt="Joe Typing"/>
 
