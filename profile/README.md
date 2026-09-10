@@ -118,11 +118,11 @@ Autonomous command injection detector with SPA-aware crawler and 5-tier injectio
 </details>
 
 <details>
-<summary><b>» <a href="https://github.com/project-hellhound-org/SOLDIER-BOY">SOLDIER-BOY</a> — Personal Assitant<code>[private]</code></b></summary>
+<summary><b>» <a href="https://github.com/project-hellhound-org/JARVIS">JARVIS</a> — Personal Assitant<code>[DEVELOPMENT]</code></b></summary>
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=1500&pause=300&color=FF3B3B&center=false&vCenter=true&width=500&lines=Joe+is+watching...;Connecting+the+dots...;Case+file+created." alt="Joe Typing"/>
 
-A Jarvis like personal assistant built for personal helps like fixing issue around project and personal help assitant.
+A Jarvis like personal assistant built for personal helps like fixing issue around project make plans look maps,plane details like gods eye
 
 </details>
 
