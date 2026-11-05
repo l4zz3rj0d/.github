@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Security+Reseacher;Building+autonmous+bug+hunter+framework;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25;HackingHUB+Top+100;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=820&lines=%5BSYSTEM+ONLINE%5D+Security+Reseacher;Building+autonomous+bug+hunter+framework;Founder+%7C+Project-Hellhound+%7C+Open+Source+Org;TryHackMe+Top+1%25;HackingHUB+Top+100;Co-Founder+%40+TriOps+Security+%7C+Grey+Hat+Builder" alt="Typing SVG"/>
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=l4zz3rj0d&color=ff3b3b&style=flat-square&label=PROFILE+VISITERS)](https://github.com/l4zz3rj0d)
